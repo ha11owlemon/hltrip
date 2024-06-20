@@ -1,0 +1,534 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.uni-popup[data-v-4dd3c44b] {
+  position: fixed;
+  z-index: 99;
+}
+.uni-popup.top[data-v-4dd3c44b], .uni-popup.left[data-v-4dd3c44b], .uni-popup.right[data-v-4dd3c44b] {
+  top: 2.5rem;
+}
+.uni-popup .uni-popup__wrapper[data-v-4dd3c44b] {
+  display: block;
+  position: relative;
+  /* iphonex 等安全区设置，底部安全区适配 */
+}
+.uni-popup .uni-popup__wrapper.left[data-v-4dd3c44b], .uni-popup .uni-popup__wrapper.right[data-v-4dd3c44b] {
+  padding-top: 0;
+}
+.fixforpc-z-index[data-v-4dd3c44b] {
+  z-index: 999;
+}
+.fixforpc-top[data-v-4dd3c44b] {
+  top: 0;
+}
+.searchBar {
+  opacity: 0;
+  position: fixed;
+  z-index: 11111;
+  width: 100%;
+  transition: top 0.3s;
+}
+.searchBar .conditions {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3125rem 1.40625rem 0.75rem;
+}
+.searchBar .conditions .c_item {
+  width: 4.6875rem;
+  text-align: center;
+  font-size: 0.8125rem;
+  font-weight: 900;
+  color: #585858;
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.searchBar .conditions .c_item::after {
+  content: '';
+  position: absolute;
+  bottom: 0.125rem;
+  right: 0.15625rem;
+  border-bottom: 0.3125rem solid #585858;
+  border-left: 0.3125rem solid transparent;
+}
+.searchBar.fixed {
+  opacity: 1;
+  z-index: 999;
+}
+.topbar {
+  width: 100%;
+  height: var(--status-bar-height);
+  background-color: #fff;
+}
+.fix-searchbar {
+  width: 100%;
+  height: 3.75rem;
+  background-color: #fff;
+  overflow: hidden;
+}
+.fix-searchbar .wrapper {
+  display: flex;
+  width: 92%;
+  height: 2.65625rem;
+  margin: 0.625rem auto 0;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.fix-searchbar .wrapper .left {
+  flex: 1;
+  border-radius: 3.125rem;
+  border: 2px solid #ff7014;
+  display: flex;
+  box-sizing: border-box;
+}
+.fix-searchbar .wrapper .left .location {
+  max-width: 2.8125rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  height: 100%;
+  line-height: 2.65625rem;
+  font-weight: bold;
+  font-size: 0.78125rem;
+  padding: 0 0.4375rem 0 0.78125rem;
+}
+.fix-searchbar .wrapper .left .checkTime {
+  font-size: 0.625rem;
+  font-weight: bold;
+  transform: translateY(20%);
+}
+.fix-searchbar .wrapper .left .checkTime .desc {
+  color: #919191;
+}
+.fix-searchbar .wrapper .left .checkTime .date {
+  margin-left: 0.15625rem;
+}
+.fix-searchbar .wrapper .left .input {
+  flex: 1;
+  text-align: center;
+  line-height: 2.65625rem;
+  font-weight: bold;
+  font-size: 0.875rem;
+  color: #919191;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.fix-searchbar .wrapper .left .searchBtn {
+  width: 3.125rem;
+  color: #fff;
+  font-weight: bold;
+  height: 2.25rem;
+  width: 3.75rem;
+  background: linear-gradient(to right, #fdb44b, #ff731e);
+  text-align: center;
+  line-height: 2.25rem;
+  margin: 0.09375rem 0.125rem;
+  border-radius: 34.71875rem;
+}
+.fix-searchbar .wrapper .right {
+  width: 3.125rem;
+  text-align: center;
+}
+.fix-searchbar .wrapper .right .iconpic {
+  width: 1.40625rem;
+  height: 1.40625rem;
+  margin-top: 0.15625rem;
+}
+.fix-searchbar .wrapper .right .desc {
+  height: auto;
+  font-size: 0.625rem;
+  color: #333;
+  font-weight: bold;
+  margin-top: -0.15625rem;
+}
+.sort_popup_content .marginblock {
+  width: 100vw;
+  height: 6.25rem;
+}
+.sort_popup_content .text_content .sort_item {
+  font-weight: 900;
+  color: #585858;
+  padding: 0.625rem 1.40625rem;
+  display: flex;
+  justify-content: space-between;
+}
+.sort_popup_content .text_content .sort_item .selectIco {
+  width: 1.0625rem;
+  height: 1.0625rem;
+  opacity: 0;
+}
+.sort_popup_content .text_content .selected {
+  color: #ff7014;
+}
+.sort_popup_content .text_content .selected .selectIco {
+  opacity: 1;
+}
+.price_popup_content .marginblock {
+  height: 6.25rem;
+  width: 100vw;
+}
+.price_popup_content .price_content {
+  padding: 0 1.40625rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 0.625rem;
+}
+.price_popup_content .price_content .price_item {
+  font-weight: 900;
+  width: 30%;
+  text-align: center;
+  height: 1.5rem;
+  font-size: 0.8125rem;
+  line-height: 1.5rem;
+  border-radius: 3.46875rem;
+  background-color: #f7f6fb;
+  margin-top: 0.5rem;
+}
+.price_popup_content .priceOption {
+  background-color: #fdfdfd;
+  border-radius: 0 0 0.625rem 0.625rem;
+  width: 100vw;
+  height: 4.375rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1.40625rem;
+  box-sizing: border-box;
+}
+.price_popup_content .priceOption .priceCancle {
+  font-weight: 900;
+  line-height: 4.375rem;
+  color: #585858;
+}
+.price_popup_content .priceOption .priceConfirm {
+  width: 12.5rem;
+  text-align: center;
+  height: 1.875rem;
+  line-height: 1.875rem;
+  color: #ff7014;
+  font-weight: 900;
+  border-radius: 9999px;
+  border: 1px solid #ff7014;
+  background-color: #fff;
+  margin-top: 1.25rem;
+}
+.fac_popup_content .marginblock {
+  height: 6.25rem;
+  width: 100vw;
+}
+.fac_popup_content .fac_content {
+  text-align: center;
+  font-weight: bold;
+  color: #333;
+}
+.fac_popup_content .fac_content .title {
+  padding: 0.9375rem 0 2.5rem;
+  font-size: 0.9375rem;
+}
+.fac_popup_content .fac_content .peopleCount-wrapper {
+  padding: 0 0.46875rem;
+}
+.fac_popup_content .fac_content .peopleCount-wrapper .peopleCount {
+  padding: 0 0.9375rem;
+}
+.fac_popup_content .fac_content .peopleCount-wrapper .peopleCount .pCount {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.fac_popup_content .fac_content .peopleCount-wrapper .peopleCount .pCount .pCountItem {
+  border-radius: 1111px;
+  background-color: #f6f7fb;
+  width: 24%;
+  margin-top: 0.625rem;
+  padding: 0.3125rem 0;
+  font-size: 0.8125rem;
+}
+.fac_popup_content .fac_content .peopleCount-wrapper .peopleCount .pCount i {
+  width: 24%;
+}
+.fac_popup_content .fac_content .peopleCount-wrapper .title {
+  font-size: 0.78125rem;
+  text-align: left;
+  padding: 0;
+  margin-left: 0.46875rem;
+}
+.fac_popup_content .fac_content .bedCount {
+  margin: 1.875rem 0;
+}
+.fac_popup_content .fac_content .button-group {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.625rem 1.875rem;
+  margin-bottom: 0.625rem;
+}
+.fac_popup_content .fac_content .button-group .btn {
+  width: 47%;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  border-radius: 1111px;
+  font-size: 0.9375rem;
+}
+.fac_popup_content .fac_content .button-group .cancle-btn {
+  border: 2px solid #333;
+}
+.fac_popup_content .fac_content .button-group .confirm-btn {
+  background-color: #fe7815;
+  border: 2px solid #fe7815;
+  color: white;
+}
+.fac_popup_content .facOption {
+  background-color: #fdfdfd;
+  border-radius: 0 0 0.625rem 0.625rem;
+  width: 100vw;
+  height: 4.375rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1.40625rem;
+  box-sizing: border-box;
+}
+.fac_popup_content .facOption .facCancle {
+  font-weight: 900;
+  line-height: 4.375rem;
+  color: #585858;
+}
+.fac_popup_content .facOption .facConfirm {
+  width: 12.5rem;
+  text-align: center;
+  height: 1.875rem;
+  line-height: 1.875rem;
+  color: #ff7014;
+  font-weight: 900;
+  border-radius: 9999px;
+  border: 1px solid #ff7014;
+  background-color: #fff;
+  margin-top: 1.25rem;
+}
+.conditionSelected {
+  color: #ff7014 !important;
+}
+.conditionSelected::after {
+  content: '';
+  position: absolute;
+  bottom: 0.125rem;
+  right: 0.15625rem;
+  border-bottom: 0.3125rem solid #ff7014 !important;
+  border-left: 0.3125rem solid transparent;
+}
+.selected2 {
+  color: #fff;
+  background-color: #ff7014 !important;
+}
+.house-content {
+  width: 100vw;
+  height: 100vh;
+}
+.house-content .contentMargin {
+  height: 7.5rem;
+  width: 100vw;
+}
+.house-content .houseList {
+  height: 46.875rem;
+}
+.house-content .houseList .left20 {
+  margin-left: 0.625rem !important;
+}
+.house-content .houseList .houseItem {
+  border-radius: 0.9375rem;
+  padding: 0.25rem;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  width: 94vw;
+  margin: 0.75rem auto;
+  box-shadow: 0 0 11px 0px #00000021;
+  position: relative;
+}
+.house-content .houseList .houseItem .cover {
+  height: 13.75rem;
+  width: 100%;
+  position: relative;
+}
+.house-content .houseList .houseItem .cover .swiper {
+  height: 13.75rem;
+  border-radius: 0.9375rem;
+  overflow: hidden;
+}
+.house-content .houseList .houseItem .cover .coverPic {
+  width: 100%;
+  height: 13.75rem;
+  filter: brightness(90%);
+}
+.house-content .houseList .houseItem .cover .iconGroup {
+  right: 0.46875rem;
+  top: 0.46875rem;
+  position: absolute;
+}
+.house-content .houseList .houseItem .cover .iconGroup .bright {
+  filter: brightness(300%);
+}
+.house-content .houseList .houseItem .cover .iconGroup .like {
+  width: 1.4375rem;
+  height: 1.4375rem;
+}
+.house-content .houseList .houseItem .cover .distance {
+  font-weight: 900;
+  position: absolute;
+  bottom: 0.9375rem;
+  left: 0.625rem;
+  background-color: rgba(255, 255, 255, 0.863);
+  color: #232220;
+  font-size: 0.625rem;
+  padding: 0.25rem 0.875rem;
+  border-radius: 34.71875rem;
+}
+.house-content .houseList .houseItem .avatar {
+  position: absolute;
+  border-radius: 312.46875rem;
+  background-color: #fff;
+  width: 3.1875rem;
+  height: 3.1875rem;
+  overflow: hidden;
+  text-align: center;
+  right: 1.25rem;
+  top: 12.96875rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.house-content .houseList .houseItem .avatar .avatarPic {
+  width: 2.8125rem;
+  height: 2.8125rem;
+  border-radius: 34.71875rem;
+}
+.house-content .houseList .houseItem .desc {
+  margin-top: 0.9375rem;
+  font-size: 0.75rem;
+  font-weight: 900;
+  color: #7c7c7c;
+  display: flex;
+}
+.house-content .houseList .houseItem .desc .favorDesc,
+.house-content .houseList .houseItem .desc .commentDesc {
+  background-color: #f8f8f8;
+  border-radius: 0.3125rem;
+  padding: 0.25rem 0.3125rem;
+}
+.house-content .houseList .houseItem .desc .commentDesc {
+  margin-left: 0.5rem;
+}
+.house-content .houseList .houseItem .rating {
+  position: absolute;
+  right: 1.25rem;
+  bottom: 0.625rem;
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #ff6e146b;
+}
+.house-content .houseList .houseItem .housename {
+  margin-top: 0.46875rem;
+  font-size: 1.125rem;
+  font-weight: 900;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.house-content .houseList .houseItem .facs {
+  margin-top: 0.125rem;
+  font-size: 0.8125rem;
+  font-weight: 900;
+}
+.house-content .houseList .houseItem .priceMoudle {
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
+  font-weight: 900;
+}
+.house-content .houseList .houseItem .priceMoudle .rmb {
+  font-size: 0.625rem;
+}
+.house-content .houseList .houseItem .priceMoudle .disprice {
+  font-size: 1.375rem;
+}
+.house-content .houseList .houseItem .priceMoudle .disprice,
+.house-content .houseList .houseItem .priceMoudle .rmb,
+.house-content .houseList .houseItem .priceMoudle .per9 {
+  color: #fe7815;
+}
+.house-content .houseList .houseItem .priceMoudle .per9 {
+  font-size: 0.71875rem;
+}
+.house-content .houseList .houseItem .priceMoudle .orgprice {
+  color: #cccccc;
+  font-size: 0.625rem;
+  margin-left: 0.15625rem;
+}
+.house-content .houseList .houseItem .priceMoudle .reduce {
+  padding: 0.1875rem 0.625rem;
+  background-color: #fe76151a;
+  color: #fe7815;
+  border-radius: 0.1875rem;
+  font-size: 0.6875rem;
+  margin-left: 0.25rem;
+}
+.house-content .houseList .houseItem .priceMoudle .tag {
+  padding: 0.1875rem 0.625rem;
+  border: 1px dotted #fe7815;
+  border-radius: 0.1875rem;
+  font-size: 0.6875rem;
+  color: #fe7815;
+}
+.house-content .houseList .bottomMarginBolck {
+  height: 6.25rem;
+  width: 100vw;
+}
+.root_ctn {
+  overflow: hidden;
+}
+.nomore {
+  margin-top: 0.625rem;
+  margin-bottom: 0.9375rem;
+  color: #b1b1b1;
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.8125rem;
+}
+.empty {
+  margin-top: 7.5rem;
+  width: 100vw;
+  text-align: center;
+  position: relative;
+}
+.empty .desc {
+  position: absolute;
+  font-weight: 900;
+  color: #919191;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}

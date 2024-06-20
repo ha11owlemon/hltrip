@@ -1,0 +1,15 @@
+.content[data-v-1cf27b2a] {
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.content .banner[data-v-1cf27b2a] {
+  position: absolute;
+  width: 12.5rem;
+  bottom: -1.5625rem;
+  left: 50%;
+  transform: translateX(-50%);
+}

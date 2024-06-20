@@ -1,0 +1,104 @@
+{
+  "houseImg":[{
+      "ImgGroup":"卧室",
+      "urls":["https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305137475_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305125600_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305158706_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305152395_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454156893_1050_701.jpg_.webp"]
+  },
+  {
+      "ImgGroup":"卫生间",
+      "urls":["https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305403161_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305404631_1050_701.jpg_.webp"]
+  },
+  {
+      "ImgGroup":"其他",
+      "urls":["https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306082088_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306074814_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099006_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306201162_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306203343_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306214203_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306395899_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072697_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077363_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505095659_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286575_1050_701.jpg_.webp"
+      ]
+  },
+      {
+      "ImgGroup":"客厅",
+      "urls":["https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306082088_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306074814_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099006_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306201162_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306203343_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306214203_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306395899_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072697_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077363_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505095659_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286575_1050_701.jpg_.webp"
+      ]
+  },
+      {
+      "ImgGroup":"厨房",
+      "urls":["https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306082088_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306074814_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099006_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306201162_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306203343_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306214203_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306395899_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072697_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077363_1050_701.jpg_.webp","https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505095659_1050_701.jpg_.webp",
+      "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286575_1050_701.jpg_.webp"
+      ]
+  }
+  ],
+  "houseOverview":{
+      "viewcount":0,
+      "favoritecount":0,
+      "dealcount":0,
+      "commentcount":0,
+      "rating":0,
+      "housename":"【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院",
+      "address":"鼓楼区, 福州鼓楼区熙街口(华润万象城三期)",
+      "bedcount":2,
+      "roomcount":2,
+      "bathroomcount":1,
+      "kitchencount":1,
+      "coverurl":"https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_1050_701.jpg_.webp",
+      "discountprice":131.0,
+      "originalprice":188.0,
+      "rentaltype":"整套出租",
+      "maxguests":4,
+      "housetype":"普通公寓",
+      "landlordid":1,
+      "landlordnickname":"小猪民宿",
+      "bed218":2,
+      "bed215":0,
+      "bed212":1,
+      "tatami":"2.00m×1.8m,1"
+  },
+  "houseLocation":"119.28427,26.082708",
+  "facilities":{
+  "service":"011011" ,
+  "basic":"1111111111111111",
+  "bathroom":"11111111" ,
+  "kitchen":"000000111",
+  "surrounding":"1111111",
+  "safety":"1111111",
+  "entertainment":"11",
+  "leisure":"11",
+  "children":"111" 
+  },
+  "features": [{
+  "featureType":"房源介绍",
+  "featureContent":"房源配备marshall音响、法国Moustache金属椅、丹麦Tradition台灯、意大利cesar side边几、英国 MORRIS& CO网红壁纸等等时尚前沿的设计作品，是一个设计时尚的空间。同时，在房源配备客宜家乳胶床垫、乳胶沙发，力求打造一个时尚与舒适享受兼备的居住空间。"
+  },
+  {
+  "featureType":"位置周边",
+  "featureContent":"位置情况:\n周边情况:-距春熙路/太古里，地铁4个站，约8分钟到\n达;\n-距文殊院，步行约5分钟到达;\n距宽窄巷子，地铁4个站，约10分钟到达;\n距火车北站，地铁1站;\n距双流机场，打车约40分钟到达(也可步行200米机场专线2号线直达);"
+  }],
+  "policies":{
+  "cancelPolicy":"30",
+  "allowAddGuests": 200.0,
+  "deposit":0.0,
+  "needToKnow" :"111000100"
+  }
+}

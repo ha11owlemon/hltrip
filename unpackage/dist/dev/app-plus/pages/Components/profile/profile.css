@@ -1,0 +1,162 @@
+.statusbar {
+  width: 100vw;
+  height: var(--status-bar-height);
+  background-color: rgba(255, 255, 255, 0);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+.topblock {
+  background: linear-gradient(to left top, #303030, #797979);
+  width: 100vw;
+  height: 14.0625rem;
+  position: relative;
+}
+.topblock .profile {
+  position: absolute;
+  left: 0.9375rem;
+  top: 3.125rem;
+  width: 18.75rem;
+  display: flex;
+  justify-content: space-between;
+}
+.topblock .profile .avatar {
+  width: 4.21875rem;
+  height: 4.21875rem;
+  border-radius: 24.3125rem;
+  overflow: hidden;
+  text-align: center;
+  background-color: #fff;
+}
+.topblock .profile .avatar .avatarPic {
+  width: 4.21875rem;
+  height: 4.21875rem;
+}
+.topblock .profile .nicknamebox {
+  font-size: 1.40625rem;
+  color: white;
+  font-weight: 900;
+  margin-left: 0.625rem;
+  margin-top: 0.625rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.topblock .profile .nicknamebox .nickname {
+  width: 12.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.topblock .profile .nicknamebox .desc {
+  font-size: 0.6875rem;
+  margin-top: 0.125rem;
+}
+.topblock .favorData {
+  display: flex;
+  position: absolute;
+  bottom: 2.5rem;
+  width: 100vw;
+}
+.topblock .favorData .data-item {
+  text-align: center;
+  width: 25vw;
+  color: #fff;
+  font-weight: 900;
+}
+.topblock .favorData .data-item .desc {
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+  color: rgba(255, 255, 255, 0.829);
+}
+.content {
+  position: relative;
+  width: 100vw;
+  height: 18.75rem;
+  background-color: #ffffff;
+}
+.content::before {
+  content: '';
+  position: absolute;
+  /* 相对于父元素定位 */
+  left: 0;
+  top: -1.4375rem;
+  height: 1.5625rem;
+  width: 100vw;
+  border-radius: 999px 999px 0 0;
+  background: #ffffff;
+}
+.content .orders {
+  padding: 0 0.875rem;
+  font-weight: 900;
+  color: #212121;
+}
+.content .orders .icongroup {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 1.09375rem;
+}
+.content .orders .icongroup .iconwrapper {
+  width: 23%;
+  height: auto;
+  text-align: center;
+  align-content: center;
+}
+.content .orders .icongroup .iconwrapper .iconPic {
+  width: 1.71875rem;
+  height: 1.71875rem;
+}
+.content .orders .icongroup .iconwrapper .wallet {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.content .orders .icongroup .iconwrapper .comment {
+  width: 2.1875rem;
+  height: 2.1875rem;
+}
+.content .orders .icongroup .iconwrapper .desc {
+  font-size: 0.75rem;
+  color: #212121;
+}
+.content .orders .icongroup .iconwrapper .marginTopre {
+  position: relative;
+  top: -0.3125rem;
+}
+.content .sep {
+  margin-top: 0.625rem;
+  width: 100vw;
+  height: 0.9375rem;
+  background: #f6f6f6;
+}
+.content .fun {
+  padding: 0 0.875rem;
+}
+.content .con {
+  font-weight: bold;
+  color: #212121;
+  text-align: center;
+  width: 22%;
+  margin-top: 1.25rem;
+}
+.content .con .pic {
+  width: 1.71875rem;
+  height: 1.71875rem;
+}
+.content .con .desc {
+  font-size: 0.71875rem;
+}
+.content .btnsty {
+  width: 15.625rem;
+  margin: 1.25rem auto;
+  text-align: center;
+  border: 1px solid #fe7204;
+  background-color: #fff;
+  padding: 0.46875rem 0;
+  border-radius: 999px;
+  color: #fe7204;
+}
+.content .logout {
+  margin-top: 8.75rem !important;
+}

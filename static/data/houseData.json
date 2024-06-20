@@ -1,0 +1,3923 @@
+{
+  "trace": null,
+  "referTraceId": "1713772585452yKpmJSAX_Dha0prZCRyj6na1DRzQPNGthyYX3",
+  "midTraceId": "t-api-gateway-c-p1_2404221556.10.95.157.85.14178.259354839_1",
+  "ver": "1.0",
+  "ret": true,
+  "errmsg": null,
+  "errTip": null,
+  "errcode": 0,
+  "data": {
+      "houseId": 55077340,
+      "canSale": true,
+      "unitInstanceCount": 1,
+      "mainPart": {
+          "topModule": {
+              "favoriteCount": 340,
+              "housePicture": {
+                  "housePics": [
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305137475_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305137475_1100_732.jpg",
+                          "orderIndex": 0,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305125600_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305125600_1100_732.jpg",
+                          "orderIndex": 2,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_1100_732.jpg",
+                          "orderIndex": 6,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【卫生间】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305403161_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305403161_1100_732.jpg",
+                          "orderIndex": 13,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 4,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【卫生间】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305404631_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305404631_1100_732.jpg",
+                          "orderIndex": 14,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 4,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【外景】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306082088_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306082088_1100_732.jpg",
+                          "orderIndex": 16,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【外景】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306074814_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306074814_1100_732.jpg",
+                          "orderIndex": 17,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【外景】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099006_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099006_1100_732.jpg",
+                          "orderIndex": 18,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【休闲】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306201162_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306201162_1100_732.jpg",
+                          "orderIndex": 19,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【休闲】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306203343_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306203343_1100_732.jpg",
+                          "orderIndex": 20,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【休闲】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306214203_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306214203_1100_732.jpg",
+                          "orderIndex": 21,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306395899_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306395899_1100_732.jpg",
+                          "orderIndex": 22,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072697_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072697_1100_732.jpg",
+                          "orderIndex": 23,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077363_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077363_1100_732.jpg",
+                          "orderIndex": 27,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9,
+                          "isDelicate": true
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305158706_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305158706_1100_732.jpg",
+                          "orderIndex": 1,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305152395_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305152395_1100_732.jpg",
+                          "orderIndex": 3,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305141310_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305141310_1100_732.jpg",
+                          "orderIndex": 4,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305169331_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305169331_1100_732.jpg",
+                          "orderIndex": 5,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305167728_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305167728_1100_732.jpg",
+                          "orderIndex": 7,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305181786_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305181786_1100_732.jpg",
+                          "orderIndex": 8,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305176826_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305176826_1100_732.jpg",
+                          "orderIndex": 9,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454161137_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454161137_1100_732.jpg",
+                          "orderIndex": 10,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454156854_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454156854_1100_732.jpg",
+                          "orderIndex": 11,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【卧室】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454156893_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_230816/thumb/202308161454156893_1100_732.jpg",
+                          "orderIndex": 12,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 2
+                      },
+                      {
+                          "title": "【外景】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099163_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191306099163_1100_732.jpg",
+                          "orderIndex": 15,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077453_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505077453_1100_732.jpg",
+                          "orderIndex": 24,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505073195_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505073195_1100_732.jpg",
+                          "orderIndex": 25,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505095659_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505095659_1100_732.jpg",
+                          "orderIndex": 26,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072307_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191505072307_1100_732.jpg",
+                          "orderIndex": 28,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286575_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286575_1100_732.jpg",
+                          "orderIndex": 29,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727272917_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727272917_1100_732.jpg",
+                          "orderIndex": 30,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727271117_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727271117_1100_732.jpg",
+                          "orderIndex": 31,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727284936_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727284936_1100_732.jpg",
+                          "orderIndex": 32,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286867_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727286867_1100_732.jpg",
+                          "orderIndex": 33,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727283056_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727283056_1100_732.jpg",
+                          "orderIndex": 34,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727288218_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727288218_1100_732.jpg",
+                          "orderIndex": 35,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727281130_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727281130_1100_732.jpg",
+                          "orderIndex": 36,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727283178_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727283178_1100_732.jpg",
+                          "orderIndex": 37,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      },
+                      {
+                          "title": "【其他】：",
+                          "url": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727283715_1050_701.jpg_.webp",
+                          "albumUrl": "https://pic.tujia.com/upload/landlordunit/day_231114/thumb/202311141727283715_1100_732.jpg",
+                          "orderIndex": 38,
+                          "pictureExplain": "",
+                          "enumPictureCategory": 9
+                      }
+                  ],
+                  "preferredProPics": [],
+                  "housePictureGroup": [],
+                  "houseVRURL": "",
+                  "houseVideoURL": "",
+                  "houseVideoTimeSpan": 0,
+                  "defaultPictureURL": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_1050_701.jpg_.webp",
+                  "picCount": 39,
+                  "houseVideos": [],
+                  "hasCommentAndStrategy": false,
+                  "housePicInfo": null
+              },
+              "promotionPic": null,
+              "houseName": "【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院",
+              "houseTags": [
+                  {
+                      "tagText": {
+                          "text": "超赞房东",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "一致的好评不拒单无违规棒棒的好房东~",
+                      "tagCode": 250000,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "阳光房",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "民宿有阳光房，能舒服的晒太阳",
+                      "tagCode": 1000215,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "近地铁",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "距离凤凰池地铁站地铁站553米",
+                      "tagCode": 100604,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "可做饭",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "配备做饭所需的厨房器具，做饭方便",
+                      "tagCode": 100010,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "有投影",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房间有高清投影，民宿里面看大片",
+                      "tagCode": 100400,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "有洗衣机",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房间提供洗衣机，洗衣不发愁",
+                      "tagCode": 100413,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "烘干机",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "民宿提供烘干机，快速干衣不发愁",
+                      "tagCode": 1000105,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "可开发票",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "可提供线上开发票服务",
+                      "tagCode": 200007,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "付费停车位",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房源附近可以付费停车，具体付费标准可咨询房东",
+                      "tagCode": 100408,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "观景落地窗",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房间有落地窗放松心情眺望远方~",
+                      "tagCode": 100403,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "管家服务",
+                          "color": "#983700",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#FAF8F6",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "民宿提供专人入住期间全程服务用户",
+                      "tagCode": 1000167,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "智能门锁",
+                          "color": "#777777",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "rgba(255,255,255,1)",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房间有智能门锁入住更方便",
+                      "tagCode": 100416,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "冷暖空调",
+                          "color": "#777777",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "rgba(255,255,255,1)",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房屋内有冷暖空调，无惧酷暑严寒",
+                      "tagCode": 1000198,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "全天热水",
+                          "color": "#777777",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "rgba(255,255,255,1)",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房间提供全天热水",
+                      "tagCode": 100412,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "有电梯",
+                          "color": "#777777",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "rgba(255,255,255,1)",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "房源有电梯",
+                      "tagCode": 100409,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  },
+                  {
+                      "tagText": {
+                          "text": "立即确认",
+                          "color": "#5E5E5E",
+                          "border": null,
+                          "tips": null,
+                          "background": {
+                              "color": "#C4C4C4",
+                              "image": null,
+                              "gradientColor": null
+                          }
+                      },
+                      "tagPic": null,
+                      "tagDesc": "下单即有房无需等待确认",
+                      "tagCode": 100009,
+                      "tagLink": null,
+                      "aloneLine": false,
+                      "childTags": null
+                  }
+              ],
+              "commentBrief": {
+                  "overall": 4.9,
+                  "scoreTitle": "超赞",
+                  "commentBrief": "",
+                  "commentBriefV2": "",
+                  "userAvatars": [
+                      {
+                          "userAvatars": "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png"
+                      },
+                      {
+                          "userAvatars": "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png"
+                      },
+                      {
+                          "userAvatars": "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png"
+                      },
+                      {
+                          "userAvatars": "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png"
+                      }
+                  ],
+                  "userAvatar": "",
+                  "totalCount": 35,
+                  "commentTabType": 0,
+                  "veryGoodNewHouse": "",
+                  "veryGoodNewHouseIcon": "",
+                  "totalCountStr": "35",
+                  "healthText": "",
+                  "healthFlag": -1,
+                  "sort": ""
+              },
+              "nearByPosition": {
+                  "address": "鼓楼区, 福州鼓楼区熙街口(华润万象城三期)",
+                  "nearByPosition": [
+                      {
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/position_train.png",
+                          "title": "近火车站.距离福州火车站直线距离5.9km",
+                          "text": null,
+                          "tips": [],
+                          "aloneLine": true,
+                          "jumpUrl": null,
+                          "timeStamp": 0,
+                          "titleTips": null,
+                          "color": "",
+                          "type": 0
+                      },
+                      {
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/position_train.png",
+                          "title": "近火车站.距离福州南站直线距离15.2km，驾车约29min",
+                          "text": null,
+                          "tips": [],
+                          "aloneLine": true,
+                          "jumpUrl": null,
+                          "timeStamp": 0,
+                          "titleTips": null,
+                          "color": "",
+                          "type": 0
+                      }
+                  ],
+                  "areaName": "鼓楼区",
+                  "tradeArea": "西湖公园附近"
+              },
+              "urgencyPromotion": null,
+              "redPacketTagData": null,
+              "atmosphereVo": null,
+              "checkInDate": "2024-04-22",
+              "checkOutDate": "2024-04-23",
+              "boardRanks": [],
+              "loginGuidance": null,
+              "diamondLevel": null,
+              "headTag": null,
+              "businessDistrictConfig": null,
+              "topVoteIconInfo": {
+                  "voteDesc": "好友选房",
+                  "voteIconWhite": "https://pic.tujia.com/upload/festatic/crn/selectRoom_white.png",
+                  "voteIconBlack": "https://pic.tujia.com/upload/festatic/crn/selectRoom_black.png",
+                  "voteUrl": ""
+              },
+              "houseHilights": [],
+              "briefComments": [
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "房东回复快",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/festatic/crn/qunarAvatars.png",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "服务"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "在万象城附近",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240415/202404150842464866.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "poi位置"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "地理位置优越",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/tujia/logo/285547.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "交通出行"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "有厨房冰箱以及洗衣机",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240419/202404191045355806.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "设施"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "房间是新装修的",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240420/202404200317363954.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "房间"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "房东服务很好沟通秒回",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240419/202404190515381536.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "老板"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "房间整洁",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_230125/202301251958335200.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "清洁度"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "总体感觉非常好",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/festatic/crn/qunarAvatars.png",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "整体感受"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "性价比超高",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240421/202404210540371943.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "性价比"
+                  },
+                  {
+                      "overall": 0,
+                      "scoreTitle": "",
+                      "commentBrief": "小区环境也是嘎嘎好",
+                      "commentBriefV2": null,
+                      "userAvatars": null,
+                      "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240419/202404190107499266.jpg",
+                      "totalCount": 0,
+                      "veryGoodNewHouse": "",
+                      "veryGoodNewHouseIcon": "",
+                      "healthText": "",
+                      "healthFlag": -1,
+                      "sort": "环境"
+                  }
+              ],
+              "celebrityInfo": null,
+              "businessStrategyExtendConfig": {
+                  "isBusinessStrategyExtendHouse": true,
+                  "textColor": "#324D84",
+                  "commentBriefList": [
+                      {
+                          "commentBrief": "房东回复快",
+                          "userAvatar": "https://pic.tujia.com/upload/festatic/crn/qunarAvatars.png"
+                      },
+                      {
+                          "commentBrief": "在万象城附近",
+                          "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240415/202404150842464866.jpg"
+                      },
+                      {
+                          "commentBrief": "地理位置优越",
+                          "userAvatar": "https://pic.tujia.com/upload/tujia/logo/285547.jpg"
+                      },
+                      {
+                          "commentBrief": "有厨房冰箱以及洗衣机",
+                          "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240419/202404191045355806.jpg"
+                      },
+                      {
+                          "commentBrief": "房间是新装修的",
+                          "userAvatar": "https://pic.tujia.com/upload/customeravatar/day_240420/202404200317363954.jpg"
+                      }
+                  ]
+              }
+          },
+          "shareModule": {
+              "items": [
+                  {
+                      "enumAppShareChannel": 1,
+                      "enumShareType": 3,
+                      "shareTitle": "【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院的主页",
+                      "shareImageUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_500_500.jpg",
+                      "shareDescription": "我在上发现了一个超赞的普通公寓哦：【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院，高品质酒店式服务公寓管理，私密、安静，尽享如住家中的温馨，适合2人入住，快来看看吧~",
+                      "shareUrl": "https://m.tujia.com/detail/55077340.htm?code=&beginDate=2024-04-22&endDate=2024-04-23&sp=MzkyNzAzOTg3",
+                      "shareTip": null,
+                      "bakUrl": "https://go.tujia.com/1054/?code=MobileClientShare&mref=share&id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "shareIconUrl": "https://pic.tujia.com/upload/festatic/crn/shr_wechat.png",
+                      "shareText": "微信好友",
+                      "enumAppShareChannelType": "WeixinFriend"
+                  },
+                  {
+                      "enumAppShareChannel": 2,
+                      "enumShareType": 5,
+                      "shareTitle": "【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院的主页",
+                      "shareImageUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_500_500.jpg",
+                      "shareDescription": "我在上发现了一个超赞的普通公寓哦：【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院，高品质酒店式服务公寓管理，私密、安静，尽享如住家中的温馨，适合2人入住，快来看看吧~",
+                      "shareUrl": "https://go.tujia.com/1054/?code=MobileClientShare&mref=share&id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "shareTip": null,
+                      "bakUrl": null,
+                      "shareIconUrl": "https://pic.tujia.com/upload/festatic/crn/shr_penyouquan.png",
+                      "shareText": "朋友圈",
+                      "enumAppShareChannelType": "WeixinCircle"
+                  },
+                  {
+                      "enumAppShareChannel": 4,
+                      "enumShareType": 0,
+                      "shareTitle": null,
+                      "shareImageUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_500_500.jpg",
+                      "shareDescription": "我在上发现了一个超赞的普通公寓哦：【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院，高品质酒店式服务公寓管理，私密、安静，尽享如住家中的温馨，适合2人入住，快来看看吧~ https://go.tujia.com/1054/?code=MobileClientShare&mref=share&id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "shareUrl": "https://go.tujia.com/1054/?code=MobileClientShare&mref=share&id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "shareTip": null,
+                      "bakUrl": null,
+                      "shareIconUrl": "https://pic.tujia.com/upload/festatic/crn/shr_weibo.png",
+                      "shareText": "新浪微博",
+                      "enumAppShareChannelType": "SinaWeibo"
+                  },
+                  {
+                      "enumAppShareChannel": 8,
+                      "enumShareType": 1,
+                      "shareTitle": null,
+                      "shareImageUrl": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_500_500.jpg",
+                      "shareDescription": "我在上发现了一个超赞的普通公寓哦：【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院，高品质酒店式服务公寓管理，私密、安静，尽享如住家中的温馨，适合2人入住，快来看看吧~ https://go.tujia.com/1054/?code=MobileClientShare&mref=share&id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "shareUrl": "https://go.tujia.com/1054/?code=MobileClientShare&mref=share&id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "shareTip": null,
+                      "bakUrl": null,
+                      "shareIconUrl": "https://pic.tujia.com/upload/festatic/crn/shr_message.png",
+                      "shareText": "短信",
+                      "enumAppShareChannelType": "SMS"
+                  }
+              ],
+              "shareTags": null,
+              "isNewShare317Version": false
+          },
+          "introductionModule": {
+              "title": "价格说明",
+              "introduction": "划线价格为参考价，该价格指商品或服务的门市价、服务提供商的指导价、零售价或该商品或服务曾经展示过的销售价等，并非原价；由于产品信息实时更新、市场价格波动等可能会与您预订时展示的不一致，该价格仅供您参考。\n未划线价格指商品或服务的实时标价，为划线价基础上计算出的优惠金额。具体成交价格根据商品或服务参加活动，或会员使用优惠券等发生变化，最终以订单结算页价格为准。如有疑问，您可在预订前联系客服进行咨询。\n此说明仅当出现价格比较时有效。若服务提供商单独对划线价格进行说明的，以服务提供商的表述为准。",
+              "focus": null,
+              "blod": false,
+              "icon": null,
+              "color": null,
+              "tip": null,
+              "highLight": null,
+              "memberTitle": null,
+              "memberLevelStyle": null,
+              "maskTagText": "",
+              "titleType": 0,
+              "marketActivityId": 0
+          },
+          "ensureModule": {
+              "icon": "https://pic.tujia.com/upload/festatic/crn/tq-ensure-icon.png",
+              "title": "",
+              "text": null,
+              "subIcon": "https://pic.tujia.com/upload/festatic/crn/tq-ensure-icon.png",
+              "titleTips": [
+                  {
+                      "title": "有房保障",
+                      "introduction": "（1）订单确认后变更，视情况，可赔付新预订房源与原民宿差价，最高赔付标准为原订单首晚房费。\n具体规则如下：\n订单确认后，发生以下两种情况，请您立即联系途家，途家将会与民宿经营方协调，为您安排原民宿同等标准或以上一级别的房间入住，若无法安排您入住原民宿任何房型，途家将视情况，对您的实际损失（即同一入住人在同一地区、同一标准、同一日期的新预订房源价格与原民宿价格之间的差价）进行赔付，赔付最高限额为原订单首晚房费：\na）您实际入住前，民宿经营方表示无法安排入住； \nb）您在约定时间到店发现无房或无法联系民宿经营方，导致无法入住的。若发生以上赔付情形，烦请您在离店后1个工作日内联系途家民宿客服，进行索赔事宜，届时，为保证您能顺利获得赔付，请您保留好相关凭证；\n（2）有房保障不适用于以下情形：\na)您未在约定的到店时间内抵店；\nb)未经过途家确认，自行变更民宿的入住日期、房型等事项；\nc)您未及时联系途家且自行入住其他民宿，将被视为放弃有房保障服务。\nd)途家网或原民宿已为您免费升级到另一间不低于原标准的房间（原民宿内安排）；\ne)未实际入住或未能提供真实有效入住凭证，或入住凭证中入住人、城市、日期与原订单不符；\nf)因不可控因素(例如自然灾害、政府管控行为、市政设施中断等)而造成的民宿无法入住;\ng)您在抵店时，订单在途家APP、途家小程序、各渠道途家宫格中未得到商家确认(订单是否预订成功请以途家的短信/邮件/APP推送信息确认为准)；\nh)预付订单，您未成功支付房费；\ni )存在包括但不限于以下安全交易风险情形的订单（途家将基于交易安全和公平原则判定）：\n----扰乱系统、网络攻击、刷单、账户下存在倒卖/转售等行为，此种情况下平台无法提供有房保障，并有权取消订单，中止提供服务，不予退款，如给途家平台及相关方造成损失的，您还应承担赔偿责任。\n-----注册账号、用户信息、交易数量存在异常的订单，住宿服务提供方有权要求用户提供担保，若无法提供担保，途家有权应住宿服务提供方要求取消订单。",
+                      "focus": null
+                  },
+                  {
+                      "title": "退改保障",
+                      "introduction": "途家承诺不从退改服务中收取任何额外费用，如您需要取消预订，途家将积极与民宿经营方协调沟通，尽量减少您的损失。",
+                      "focus": null
+                  },
+                  {
+                      "title": "专业服务",
+                      "introduction": "途家为您提供7*24h专业客服服务，您在服务过程中遇到任何问题，均可联系途家民宿客服4001881234。",
+                      "focus": null
+                  }
+              ]
+          },
+          "businessLicenseModule": [
+              "https://pic.tujia.com/upload/festatic/publicImages/person_statement.jpg"
+          ],
+          "dynamicModule": {
+              "moduleSort": [
+                  "commentModule",
+                  "landlordRecommendModule",
+                  "featureModule",
+                  "facilityModule",
+                  "landlordModule",
+                  "rulesModule",
+                  "positionModule"
+              ],
+              "facilityModule": {
+                  "topScroll": null,
+                  "houseContent": "1室 0厅 1卫 0厨 35㎡ 可住2人 1床",
+                  "houseSummary": [
+                      {
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/housetype_toc4249.png",
+                          "title": "公寓·35㎡ ",
+                          "text": "整套房屋",
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": "",
+                          "timeStamp": 0,
+                          "titleTips": [],
+                          "color": "",
+                          "type": 1
+                      },
+                      {
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/housearea_toc4249.png",
+                          "title": "1卧室·1卫",
+                          "text": "",
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": "",
+                          "timeStamp": 0,
+                          "titleTips": [],
+                          "color": "",
+                          "type": 2
+                      },
+                      {
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/housebed_toc4249.png",
+                          "title": "1床·可住2人",
+                          "text": "",
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": "",
+                          "timeStamp": 0,
+                          "titleTips": [],
+                          "color": "",
+                          "type": 3
+                      },
+                      {
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/housebreakfast_toc4249.png",
+                          "title": "无早餐 ",
+                          "text": "",
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": "",
+                          "timeStamp": 0,
+                          "titleTips": [],
+                          "color": "",
+                          "type": 4
+                      }
+                  ],
+                  "houseFacility": {
+                      "specialFacilitys": [
+                          {
+                              "isDeleted": false,
+                              "orderIndex": 1,
+                              "name": "付费停车",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/tingche.png",
+                              "deleted": false,
+                              "tip": null
+                          },
+                          {
+                              "isDeleted": false,
+                              "orderIndex": 50,
+                              "name": "落地窗",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/luodichuang.png",
+                              "deleted": false,
+                              "tip": null
+                          },
+                          {
+                              "isDeleted": false,
+                              "orderIndex": 100,
+                              "name": "智能门锁",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/zhinengmensuo.png",
+                              "deleted": false,
+                              "tip": null
+                          },
+                          {
+                              "isDeleted": false,
+                              "orderIndex": 130,
+                              "name": "投影设备",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/touyingshebei.png",
+                              "deleted": false,
+                              "tip": null
+                          },
+                          {
+                              "isDeleted": false,
+                              "orderIndex": 160,
+                              "name": "桌游",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/zhouyou.png",
+                              "deleted": false,
+                              "tip": null
+                          }
+                      ],
+                      "houseFacilitys": [
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "免费停车位",
+                                      "icon": null,
+                                      "deleted": true,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "付费停车位",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "行李寄存",
+                                      "icon": null,
+                                      "deleted": true,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "前台接待",
+                                      "icon": null,
+                                      "deleted": true,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "管家式服务",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 1,
+                              "groupName": "服务",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/fuwu.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "投影设备",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "桌游",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 8,
+                              "groupName": "娱乐",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/yule.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "落地窗",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "玻璃房",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 5,
+                              "groupName": "休闲",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/jianzhu.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "微波炉",
+                                      "icon": null,
+                                      "deleted": true,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "餐具",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "刀具菜板",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "烹饪锅具",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "电磁炉",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "燃气灶",
+                                      "icon": null,
+                                      "deleted": true,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "洗涤用品",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "餐桌",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 4,
+                              "groupName": "厨房",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/chufang.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "无线网络",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "电梯",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "落地窗",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "空调-冷暖",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "暖气",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "晾衣架",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "电热水壶",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "沙发",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "电视",
+                                      "icon": null,
+                                      "deleted": true,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "冰箱",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "洗衣机",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "烘干机",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 2,
+                              "groupName": "基础",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/jichu.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "热水",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "独立卫浴",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "电吹风",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "洗浴用品",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "牙具",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "浴巾",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "毛巾",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 3,
+                              "groupName": "卫浴",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/weiyu.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "超市",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "便利店",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "餐厅",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "药店",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "公园",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "菜市场",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "提款机",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  },
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "儿童乐园",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 6,
+                              "groupName": "周边",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/zhoubian.png"
+                          },
+                          {
+                              "facilitys": [
+                                  {
+                                      "isDeleted": false,
+                                      "orderIndex": 0,
+                                      "name": "智能门锁",
+                                      "icon": null,
+                                      "deleted": false,
+                                      "tip": null
+                                  }
+                              ],
+                              "groupId": 7,
+                              "groupName": "安全",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/anquan.png"
+                          }
+                      ],
+                      "facilitySort": [
+                          4,
+                          5,
+                          6
+                      ],
+                      "bedSizeDetailInfo": {
+                          "houseTips": [
+                              "大床2×1.5米 1张"
+                          ],
+                          "houseIntroduction": "标准入住2人，不可加人"
+                      }
+                  },
+                  "cHotelFacility": null,
+                  "bedRoomSummary": [
+                      {
+                          "bedRoomNumber": 1,
+                          "title": "卧室",
+                          "bedInfos": [
+                              {
+                                  "bedCount": "1张",
+                                  "bedTitle": "大床",
+                                  "bedType": "2×1.5米"
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "landlordModule": {
+                  "hotelId": 18192397,
+                  "topScroll": "https://pic.tujia.com/upload/festatic/crn/v4landlord.png",
+                  "hotelLogo": "https://pic.tujia.com/upload/customeravatar/day_220527/thumb/202205270839058493_90_90.jpg",
+                  "hotelName": "白羊角民宿",
+                  "landlordLevelUrl": "https://pic.tujia.com/upload/festatic/crn/chaozan.png",
+                  "hotelTags": [
+                      {
+                          "tagText": {
+                              "text": "自然人房东",
+                              "color": "#9B9B9B",
+                              "border": null,
+                              "tips": null,
+                              "background": null
+                          },
+                          "tagPic": null,
+                          "tagDesc": null,
+                          "tagCode": 0,
+                          "tagLink": null,
+                          "aloneLine": false,
+                          "childTags": null
+                      },
+                      {
+                          "tagText": {
+                              "text": "实名验证",
+                              "color": "#9B9B9B",
+                              "border": null,
+                              "tips": null,
+                              "background": null
+                          },
+                          "tagPic": null,
+                          "tagDesc": null,
+                          "tagCode": 0,
+                          "tagLink": null,
+                          "aloneLine": false,
+                          "childTags": null
+                      },
+                      {
+                          "tagText": {
+                              "text": "40套房屋",
+                              "color": "#9B9B9B",
+                              "border": null,
+                              "tips": null,
+                              "background": null
+                          },
+                          "tagPic": null,
+                          "tagDesc": null,
+                          "tagCode": 0,
+                          "tagLink": null,
+                          "aloneLine": false,
+                          "childTags": null
+                      }
+                  ],
+                  "landlordTag": [],
+                  "hotelSummary": [
+                      {
+                          "title": "好评率",
+                          "introduction": "92%",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "共569条点评",
+                          "highLight": "569",
+                          "memberTitle": null,
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 0
+                      },
+                      {
+                          "title": "聊天回复率",
+                          "introduction": "99%",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "平均1分钟回复",
+                          "highLight": "1",
+                          "memberTitle": null,
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 0
+                      },
+                      {
+                          "title": "订单确认率",
+                          "introduction": "100%",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": null,
+                          "highLight": null,
+                          "memberTitle": null,
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 0
+                      }
+                  ],
+                  "businessType": 4,
+                  "landlordLevel": 16,
+                  "isReplyTimeMoreThan5Min": false,
+                  "landlordSummaryList": [
+                      {
+                          "title": "超赞房东",
+                          "introduction": "经验丰富 服务贴心 更受欢迎",
+                          "focus": null,
+                          "blod": false,
+                          "icon": "https://pic.tujia.com/upload/festatic/crn/czfd_3x.png",
+                          "color": null,
+                          "tip": null,
+                          "highLight": null,
+                          "memberTitle": null,
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 0
+                      }
+                  ],
+                  "landlordBanner": "https://pic.tujia.com/upload/festatic/publicImages/greatLandlordTopScrollIcon_v3.png",
+                  "logoAtmosphere": {
+                      "topIcon": "https://pic.tujia.com/upload/festatic/crn/greatLandlordTopIcon.png",
+                      "centerCircle": "https://pic.tujia.com/upload/festatic/crn/greatLandlordBorderIcon.png",
+                      "bottomTag": "https://pic.tujia.com/upload/festatic/crn/greatLandlordTextIcon.png",
+                      "atmosphereIcon": "https://pic.tujia.com/upload/festatic/publicImages/atmosphereIcon.png"
+                  }
+              },
+              "commentModule": {
+                  "overall": 4.9,
+                  "scoreTitle": "超赞",
+                  "totalCount": 35,
+                  "subScores": [
+                      "如实描述 4.8",
+                      "服务周到 4.9",
+                      "位置便利 4.9",
+                      "干净卫生 4.9",
+                      "高性价比 4.8",
+                      "入住便捷 4.8"
+                  ],
+                  "subScoresFocus": [
+                      {
+                          "text": "如实描述 4.8",
+                          "focusText": "4.8"
+                      },
+                      {
+                          "text": "服务周到 4.9",
+                          "focusText": "4.9"
+                      },
+                      {
+                          "text": "位置便利 4.9",
+                          "focusText": "4.9"
+                      },
+                      {
+                          "text": "干净卫生 4.9",
+                          "focusText": "4.9"
+                      },
+                      {
+                          "text": "入住便捷 4.8",
+                          "focusText": "4.8"
+                      },
+                      {
+                          "text": "高性价比 4.8",
+                          "focusText": "4.8"
+                      }
+                  ],
+                  "commentTagVo": [
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "干净卫生(13)",
+                          "selected": false,
+                          "selectParam": "4,209",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "干净卫生",
+                              "(13)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "位置不错(8)",
+                          "selected": false,
+                          "selectParam": "4,149",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "位置不错",
+                              "(8)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "设施挺好(4)",
+                          "selected": false,
+                          "selectParam": "4,308",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "设施挺好",
+                              "(4)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "环境好(4)",
+                          "selected": false,
+                          "selectParam": "4,120",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "环境好",
+                              "(4)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "服务态度好(4)",
+                          "selected": false,
+                          "selectParam": "4,103",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "服务态度好",
+                              "(4)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "下次还想入住(4)",
+                          "selected": false,
+                          "selectParam": "4,599",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "下次还想入住",
+                              "(4)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "老板不错(4)",
+                          "selected": false,
+                          "selectParam": "4,183",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "老板不错",
+                              "(4)"
+                          ]
+                      },
+                      {
+                          "color": "#666666",
+                          "backgroundColor": "#F5F5F5",
+                          "text": "有空调(2)",
+                          "selected": false,
+                          "selectParam": "4,252",
+                          "focusColor": "",
+                          "borderColor": "",
+                          "texts": [
+                              "有空调",
+                              "(2)"
+                          ]
+                      }
+                  ],
+                  "comment": {
+                      "userAvatars": "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png",
+                      "userName": "d***7",
+                      "checkInDate": "2024-03-01",
+                      "overall": 5,
+                      "commentDetail": "出差首选的住处，卫生也可以，小姐姐态度也很好跟我说停车的好去处",
+                      "commentDetailTranslation": null,
+                      "commentDetailHasTranslation": false,
+                      "commentDetailTranslationType": null,
+                      "originChannel": null,
+                      "scoreTags": null,
+                      "pictureList": [
+                          {
+                              "title": null,
+                              "url": "https://pic.tujia.com/upload/comment/day_240310/thumb/202403102150017097_180_135.jpeg",
+                              "albumUrl": "https://pic.tujia.com/upload/comment/day_240310/thumb/202403102150017097_1280_1280.jpeg",
+                              "orderIndex": 0,
+                              "pictureExplain": null,
+                              "enumPictureCategory": 0
+                          },
+                          {
+                              "title": null,
+                              "url": "https://pic.tujia.com/upload/comment/day_240312/thumb/202403121035015345_180_135.jpeg",
+                              "albumUrl": "https://pic.tujia.com/upload/comment/day_240312/thumb/202403121035015345_1280_1280.jpeg",
+                              "orderIndex": 0,
+                              "pictureExplain": null,
+                              "enumPictureCategory": 0
+                          }
+                      ],
+                      "goodCommentUrl": null,
+                      "commentTopicList": null,
+                      "commentTrySleepIconUrl": null,
+                      "commentTrySleepText": null,
+                      "houseName": "【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院",
+                      "location": "",
+                      "mediaList": [
+                          {
+                              "mediaType": 0,
+                              "thumbnailUrl": "https://pic.tujia.com/upload/comment/day_240310/thumb/202403102150017097_1280_1280.jpeg",
+                              "url": "https://pic.tujia.com/upload/comment/day_240310/thumb/202403102150017097_180_135.jpeg"
+                          },
+                          {
+                              "mediaType": 0,
+                              "thumbnailUrl": "https://pic.tujia.com/upload/comment/day_240312/thumb/202403121035015345_1280_1280.jpeg",
+                              "url": "https://pic.tujia.com/upload/comment/day_240312/thumb/202403121035015345_180_135.jpeg"
+                          }
+                      ],
+                      "commentId": 461643627
+                  },
+                  "commentTabType": 0,
+                  "commentAvatarsLimit": [
+                      "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png",
+                      "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png",
+                      "https://pic.tujia.com/upload/festatic/app/tujia_useravatar.png"
+                  ],
+                  "totalCountStr": "35",
+                  "evaluationModule": null
+              },
+              "positionModule": {
+                  "cityId": 145,
+                  "cityName": "福州",
+                  "cityTerritoryType": 1,
+                  "longitude": 119.284275,
+                  "latitude": 26.082708,
+                  "geoCoordSysType": "bd09ll",
+                  "address": "福州鼓楼区熙街口(华润万象城三期)",
+                  "ctripCityId": 0,
+                  "tips": "1、显示距离为房屋到地标的直线距离，与步行、驾车距离有所差异。\n2、步行、驾车时间数据来源于百度，实际时间可能由于不同时间段（如出行高峰期）而存在一定误差，仅供参考，具体以实际情况为准。",
+                  "topScroll": null,
+                  "mapUrl": "https://api.map.baidu.com/staticimage/v2?zoom=17&dpiType=ph&ak=m91xuYz3SV9eIruac2G0BuuZlpyNs4Py&height=246&width=686&center=119.284275,26.082708&markers=119.284275,26.082708&coordtype=bd09ll&markerStyles=-1,http://pic.tujia.com/upload/festatic/crn/position2.png",
+                  "unitGeoPositions": [
+                      {
+                          "groupType": 1,
+                          "groupName": "交通",
+                          "groupIcon": "",
+                          "geoPositionList": [
+                              {
+                                  "icon": null,
+                                  "title": "凤凰池地铁站",
+                                  "description": "直线距离553m，步行约18min",
+                                  "tips": null,
+                                  "distant": 553,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2792,
+                                  "latitude": 26.0847,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离553米",
+                                      "步行约18分钟"
+                                  ],
+                                  "enumgeopositiontext": "地铁站"
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "陆庄地铁站",
+                                  "description": "直线距离877m，步行约18min",
+                                  "tips": null,
+                                  "distant": 877,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.29,
+                                  "latitude": 26.0887,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离877米",
+                                      "步行约18分钟"
+                                  ],
+                                  "enumgeopositiontext": "地铁站"
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "福州火车站",
+                                  "description": "直线距离5.9km",
+                                  "tips": null,
+                                  "distant": 5905,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3266,
+                                  "latitude": 26.1198,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离5.9公里"
+                                  ],
+                                  "enumgeopositiontext": "火车站"
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "福州南站",
+                                  "description": "直线距离15.2km，驾车约29min",
+                                  "tips": null,
+                                  "distant": 15171,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3982,
+                                  "latitude": 25.9925,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离15.2公里",
+                                      "驾车约29分钟"
+                                  ],
+                                  "enumgeopositiontext": "火车站"
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "长乐国际机场",
+                                  "description": "直线距离42.8km",
+                                  "tips": null,
+                                  "distant": 42758,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.6793,
+                                  "latitude": 25.935,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离42.8公里"
+                                  ],
+                                  "enumgeopositiontext": "机场"
+                              }
+                          ]
+                      },
+                      {
+                          "groupType": 4,
+                          "groupName": "景点",
+                          "groupIcon": "",
+                          "geoPositionList": [
+                              {
+                                  "icon": null,
+                                  "title": "福州熊猫世界",
+                                  "description": "直线距离1.6km",
+                                  "tips": null,
+                                  "distant": 1550,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.292,
+                                  "latitude": 26.0948,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离1.6公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "文儒坊",
+                                  "description": "直线距离1.7km",
+                                  "tips": null,
+                                  "distant": 1677,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3002,
+                                  "latitude": 26.0875,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离1.7公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "乌山",
+                                  "description": "直线距离1.8km",
+                                  "tips": null,
+                                  "distant": 1775,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.302,
+                                  "latitude": 26.0815,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离1.8公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "光禄坊",
+                                  "description": "直线距离1.9km",
+                                  "tips": null,
+                                  "distant": 1886,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3028,
+                                  "latitude": 26.086,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离1.9公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "林则徐纪念馆",
+                                  "description": "直线距离2km",
+                                  "tips": null,
+                                  "distant": 1951,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3037,
+                                  "latitude": 26.0846,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "南后街",
+                                  "description": "直线距离2km",
+                                  "tips": null,
+                                  "distant": 2034,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3031,
+                                  "latitude": 26.0897,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "黄巷",
+                                  "description": "直线距离2km",
+                                  "tips": null,
+                                  "distant": 2048,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3033,
+                                  "latitude": 26.0896,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "塔巷",
+                                  "description": "直线距离2.1km",
+                                  "tips": null,
+                                  "distant": 2070,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3032,
+                                  "latitude": 26.0903,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.1公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "郎官巷",
+                                  "description": "直线距离2.1km",
+                                  "tips": null,
+                                  "distant": 2098,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3031,
+                                  "latitude": 26.0911,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.1公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "西湖公园",
+                                  "description": "直线距离2.2km",
+                                  "tips": null,
+                                  "distant": 2195,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2967,
+                                  "latitude": 26.099,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.2公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              }
+                          ]
+                      },
+                      {
+                          "groupType": 2,
+                          "groupName": "餐饮",
+                          "groupIcon": "",
+                          "geoPositionList": [
+                              {
+                                  "icon": null,
+                                  "title": "几松",
+                                  "description": "直线距离2.7km",
+                                  "tips": null,
+                                  "distant": 2687,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3058747,
+                                  "latitude": 26.0683335,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.7公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "香格里拉大酒店·宴会厅",
+                                  "description": "直线距离2.8km",
+                                  "tips": null,
+                                  "distant": 2806,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3122317,
+                                  "latitude": 26.0804725,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.8公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "武夷山熏鹅",
+                                  "description": "直线距离3km",
+                                  "tips": null,
+                                  "distant": 2988,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3066779,
+                                  "latitude": 26.0649392,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "国惠温泉酒店",
+                                  "description": "直线距离3.4km",
+                                  "tips": null,
+                                  "distant": 3409,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.31622,
+                                  "latitude": 26.093426,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.4公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "兰博基尼",
+                                  "description": "直线距离3.5km",
+                                  "tips": null,
+                                  "distant": 3508,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3140527,
+                                  "latitude": 26.0993841,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.5公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "杭州小笼包",
+                                  "description": "直线距离3.5km",
+                                  "tips": null,
+                                  "distant": 3539,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2496801,
+                                  "latitude": 26.0759524,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.5公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "聚春园",
+                                  "description": "直线距离3.6km",
+                                  "tips": null,
+                                  "distant": 3563,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3104784,
+                                  "latitude": 26.1044121,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.6公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "景城大酒店中餐厅",
+                                  "description": "直线距离4km",
+                                  "tips": null,
+                                  "distant": 4042,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.324065,
+                                  "latitude": 26.0891669,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "成都小吃",
+                                  "description": "直线距离4.4km",
+                                  "tips": null,
+                                  "distant": 4352,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3245903,
+                                  "latitude": 26.0974764,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4.4公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "沃尔戴斯酒店",
+                                  "description": "直线距离4.5km",
+                                  "tips": null,
+                                  "distant": 4470,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.319197,
+                                  "latitude": 26.057628,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4.5公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              }
+                          ]
+                      },
+                      {
+                          "groupType": 3,
+                          "groupName": "商超",
+                          "groupIcon": "",
+                          "geoPositionList": [
+                              {
+                                  "icon": null,
+                                  "title": "万象九宜城",
+                                  "description": "直线距离1.9km",
+                                  "tips": null,
+                                  "distant": 1857,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2972,
+                                  "latitude": 26.0707,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离1.9公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "东方百货(东街店)",
+                                  "description": "直线距离2.3km",
+                                  "tips": null,
+                                  "distant": 2312,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3047,
+                                  "latitude": 26.0925,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.3公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "冠亚广场",
+                                  "description": "直线距离2.4km",
+                                  "tips": null,
+                                  "distant": 2370,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.308,
+                                  "latitude": 26.0833,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离2.4公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "世茂星天地",
+                                  "description": "直线距离3.2km",
+                                  "tips": null,
+                                  "distant": 3158,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3137,
+                                  "latitude": 26.0723,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.2公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "名店街",
+                                  "description": "直线距离3.8km",
+                                  "tips": null,
+                                  "distant": 3820,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.313,
+                                  "latitude": 26.1054,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.8公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "福州东百",
+                                  "description": "直线距离3.9km",
+                                  "tips": null,
+                                  "distant": 3938,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2853,
+                                  "latitude": 26.0473,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离3.9公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "爱琴海购物广场",
+                                  "description": "直线距离4km",
+                                  "tips": null,
+                                  "distant": 4000,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2867,
+                                  "latitude": 26.0468,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "中亭街",
+                                  "description": "直线距离4.1km",
+                                  "tips": null,
+                                  "distant": 4083,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3155,
+                                  "latitude": 26.059,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4.1公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "元洪城",
+                                  "description": "直线距离4.1km",
+                                  "tips": null,
+                                  "distant": 4123,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.3179,
+                                  "latitude": 26.0612,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4.1公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              },
+                              {
+                                  "icon": null,
+                                  "title": "裕晟广场",
+                                  "description": "直线距离4.2km",
+                                  "tips": null,
+                                  "distant": 4235,
+                                  "enumgeopositiontype": 0,
+                                  "cityId": 145,
+                                  "score": 0,
+                                  "longitude": 119.2484,
+                                  "latitude": 26.0624,
+                                  "address": null,
+                                  "descriptions": [
+                                      "直线距离4.2公里"
+                                  ],
+                                  "enumgeopositiontext": ""
+                              }
+                          ]
+                      }
+                  ],
+                  "communityInfo": {
+                      "items": [
+                          {
+                              "title": "小区名称：",
+                              "introduction": "华润置地中心"
+                          },
+                          {
+                              "title": "所属商圈：",
+                              "introduction": "西湖公园附近"
+                          },
+                          {
+                              "title": "建筑年代：",
+                              "introduction": "2017年"
+                          },
+                          {
+                              "title": "小区类型：",
+                              "introduction": "商住楼"
+                          },
+                          {
+                              "title": "绿化率：",
+                              "introduction": "30%"
+                          },
+                          {
+                              "title": "容积率：",
+                              "introduction": "40%"
+                          }
+                      ],
+                      "communityId": "23b9a3ba1a26bb49d92f28a1"
+                  },
+                  "areaName": "鼓楼区",
+                  "tradeArea": "西湖公园附近",
+                  "poi": "华润万象城"
+              },
+              "rulesModule": {
+                  "cancelRules": [
+                      {
+                          "backColor": "#F4F6F8",
+                          "tipColor": "#666666",
+                          "tip": null,
+                          "strDate": null,
+                          "strTime": null,
+                          "introduction": "现在预订（04月22日）",
+                          "isDeleted": false
+                      },
+                      {
+                          "backColor": "#17D2BC25",
+                          "tipColor": "#17D2BC",
+                          "tip": "取消订单可退还全部房费",
+                          "strDate": null,
+                          "strTime": null,
+                          "introduction": "订单确认30分钟后",
+                          "isDeleted": false
+                      },
+                      {
+                          "backColor": "#FF666625",
+                          "tipColor": "#FF6666",
+                          "tip": "取消订单将扣除全部房费",
+                          "strDate": null,
+                          "strTime": null,
+                          "introduction": "离店（04月23日）",
+                          "isDeleted": false
+                      }
+                  ],
+                  "orderRules": [
+                      {
+                          "title": "入离时间",
+                          "introduction": "14:00-24:00入住，12:00前退房",
+                          "link": null,
+                          "icon": null,
+                          "tips": null,
+                          "deleted": false,
+                          "loginFlag": false,
+                          "color": null
+                      },
+                      {
+                          "title": "在线押金",
+                          "introduction": "180元，离店后原路退还",
+                          "link": null,
+                          "icon": null,
+                          "tips": [
+                              "到店后无需再次支付，如取消订单或未入住，押金将全额原路退回。",
+                              "入住完成后，房东会在您离店日18点前操作退回押金，超时未操作押金将自动退还到支付账户，预计1-5个工作日到账。",
+                              "如有疑问，可咨询在线客服。"
+                          ],
+                          "deleted": false,
+                          "loginFlag": false,
+                          "color": null,
+                          "type": 1
+                      },
+                      {
+                          "title": "发票说明",
+                          "introduction": "发票由天津途家旅游有限公司提供",
+                          "link": {
+                              "enabled": true,
+                              "title": null,
+                              "text": null,
+                              "navigateUrl": "https://pwa.tujia.com/h5/mob/invoice/invoiceIntructions?navbar=0",
+                              "imageUrl": null
+                          },
+                          "icon": null,
+                          "tips": null,
+                          "deleted": false,
+                          "loginFlag": false,
+                          "color": null
+                      },
+                      {
+                          "title": "确认规则",
+                          "introduction": "立即确认",
+                          "link": null,
+                          "icon": null,
+                          "tips": null,
+                          "deleted": false,
+                          "loginFlag": false,
+                          "color": "#1C6945"
+                      },
+                      {
+                          "title": "取消规则",
+                          "introduction": null,
+                          "link": null,
+                          "icon": "30分钟内免费取消",
+                          "tips": null,
+                          "deleted": false,
+                          "loginFlag": false,
+                          "color": "#17D2BC"
+                      }
+                  ],
+                  "checkInRules": [
+                      {
+                          "title": "入住须知",
+                          "checkInRuleFloat": null,
+                          "items": [
+                              {
+                                  "introduction": "接待婴儿",
+                                  "tip": null,
+                                  "isDeleted": false,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "接待儿童",
+                                  "tip": null,
+                                  "isDeleted": false,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "接待老人",
+                                  "tip": null,
+                                  "isDeleted": false,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "接待外宾",
+                                  "tip": null,
+                                  "isDeleted": true,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "带宠物",
+                                  "tip": null,
+                                  "isDeleted": true,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "吸烟",
+                                  "tip": null,
+                                  "isDeleted": true,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "做饭",
+                                  "tip": "如有用到厨房需要自行收拾哦",
+                                  "isDeleted": false,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "聚会",
+                                  "tip": "",
+                                  "isDeleted": true,
+                                  "textLink": null
+                              },
+                              {
+                                  "introduction": "商业拍摄",
+                                  "tip": "",
+                                  "isDeleted": true,
+                                  "textLink": null
+                              }
+                          ]
+                      }
+                  ],
+                  "checkinOtherInfo": [
+                      {
+                          "title": null,
+                          "checkInRuleFloat": null,
+                          "items": [
+                              {
+                                  "introduction": "标准入住2人，不可加人",
+                                  "tip": null,
+                                  "isDeleted": null,
+                                  "textLink": null
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "featureModule": null,
+              "landlordRecommendModule": null,
+              "bannerModule": null
+          },
+          "businessLicenseModuleTitle": "查看房东证照信息"
+      },
+      "pricePart": {
+          "priceModule": {
+              "product": {
+                  "minRequireNights": 1,
+                  "productId": 116506754,
+                  "productNumber": "编号：116506754",
+                  "productName": "基础价",
+                  "productPrice": "188",
+                  "finalPrice": "131",
+                  "markLine": true,
+                  "activityInfo": "%7B%22peopleCount%22%3A1%2C%22extraAttribute%22%3A%220_0_0__131_0_0_0__null_1000002___1000085__%22%2C%22version%22%3A3%2C%22source%22%3A0%2C%22totalHouseAmount%22%3A131%2C%22totalAddPeopleAmount%22%3A0%2C%22totalCleaningAmount%22%3A0%2C%22maxPeopleCount%22%3A2%2C%22addPeopleAmount%22%3A0%2C%22qdepositFlag%22%3Afalse%2C%22sproductId%22%3A%22116506754_null_1000002_1000085%22%2C%22houseId%22%3A55077340%2C%22msHouse%22%3Atrue%2C%22productId%22%3A116506754%2C%22checkInDate%22%3A%222024-04-22%22%2C%22checkOutDate%22%3A%222024-04-23%22%2C%22prevTraceId%22%3A%22t-api-gateway-c-p1_2404221556.10.95.157.85.14178.259354839_1%22%2C%22referTraceId%22%3A%221713772585452yKpmJSAX_Dha0prZCRyj6na1DRzQPNGthyYX3%22%7D",
+                  "allowBooking": true,
+                  "disallowBookingReason": null,
+                  "newPrices": [
+                      {
+                          "productId": 116506754,
+                          "name": "无早餐 | 限时免费取消",
+                          "promotionPrice": null,
+                          "ruleText": "30分钟内可免费取消",
+                          "productPrice": "188",
+                          "finalPrice": "131",
+                          "tags": [
+                              {
+                                  "tagText": {
+                                      "text": "钻石会员",
+                                      "color": "#FF6666",
+                                      "border": {
+                                          "color": "#FF8484",
+                                          "width": 0
+                                      },
+                                      "tips": null,
+                                      "background": null
+                                  },
+                                  "tagPic": null,
+                                  "tagDesc": null,
+                                  "tagCode": -1,
+                                  "tagLink": null,
+                                  "aloneLine": false,
+                                  "childTags": null
+                              },
+                              {
+                                  "tagText": {
+                                      "text": "今夜特价",
+                                      "color": "#FF6666",
+                                      "border": {
+                                          "color": "#FF8484",
+                                          "width": 0
+                                      },
+                                      "tips": null,
+                                      "background": null
+                                  },
+                                  "tagPic": null,
+                                  "tagDesc": null,
+                                  "tagCode": -1,
+                                  "tagLink": null,
+                                  "aloneLine": false,
+                                  "childTags": null
+                              },
+                              {
+                                  "tagText": {
+                                      "text": "直营",
+                                      "color": "#3F4954",
+                                      "border": {
+                                          "color": "#656D76",
+                                          "width": 0
+                                      },
+                                      "tips": null,
+                                      "background": null
+                                  },
+                                  "tagPic": null,
+                                  "tagDesc": null,
+                                  "tagCode": -1,
+                                  "tagLink": null,
+                                  "aloneLine": false,
+                                  "childTags": null
+                              }
+                          ],
+                          "selected": true,
+                          "sproductId": "116506754_null_1000002_1000085"
+                      },
+                      {
+                          "productId": 2147483647,
+                          "name": "无早餐 | 限时免费取消",
+                          "promotionPrice": null,
+                          "ruleText": "04月22日23:59前可免费取消",
+                          "sourceChannelDesc": "赫程代理",
+                          "sourceChannel": 303,
+                          "productPrice": "158",
+                          "finalPrice": "158",
+                          "tags": [
+                              {
+                                  "tagText": {
+                                      "text": "代理",
+                                      "color": "#3F4954",
+                                      "border": {
+                                          "color": "#656D76",
+                                          "width": 0
+                                      },
+                                      "tips": null,
+                                      "background": null
+                                  },
+                                  "tagPic": null,
+                                  "tagDesc": null,
+                                  "tagCode": -1,
+                                  "tagLink": null,
+                                  "aloneLine": false,
+                                  "childTags": null
+                              }
+                          ],
+                          "selected": false,
+                          "sproductId": "2147483647_1498922445_0_null",
+                          "pkgProductId": 1498922445
+                      }
+                  ],
+                  "defaultPromotionTips": {
+                      "choseContent": "2种报价可选",
+                      "promotionTips": [
+                          {
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/ziying.png",
+                              "title": "钻石会员",
+                              "text": "等多重优惠已减¥57",
+                              "tips": [],
+                              "aloneLine": false,
+                              "jumpUrl": null,
+                              "timeStamp": 0,
+                              "titleTips": null,
+                              "color": "",
+                              "type": 0
+                          }
+                      ]
+                  },
+                  "defaultProductTip": null,
+                  "defaultProductStatus": 0,
+                  "promotionTags": [
+                      {
+                          "tagText": {
+                              "text": "钻石会员",
+                              "color": "#FF6666",
+                              "border": null,
+                              "tips": null,
+                              "background": {
+                                  "color": "rgba(255,102,102,0.10)",
+                                  "image": null,
+                                  "gradientColor": null
+                              }
+                          },
+                          "tagPic": null,
+                          "tagDesc": "会员用户专享",
+                          "tagCode": -1,
+                          "tagLink": null,
+                          "aloneLine": false,
+                          "childTags": null
+                      },
+                      {
+                          "tagText": {
+                              "text": "今夜特价",
+                              "color": "#FF6666",
+                              "border": null,
+                              "tips": null,
+                              "background": {
+                                  "color": "rgba(255,102,102,0.10)",
+                                  "image": null,
+                                  "gradientColor": null
+                              }
+                          },
+                          "tagPic": null,
+                          "tagDesc": "今天11:00-24:00预订今晚入住订单，合计可减38.0元",
+                          "tagCode": -1,
+                          "tagLink": null,
+                          "aloneLine": false,
+                          "childTags": null
+                      }
+                  ],
+                  "priceDetails": [
+                      {
+                          "title": "平均房费",
+                          "introduction": "￥188",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "",
+                          "highLight": null,
+                          "memberTitle": "",
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 0,
+                          "amount": 188,
+                          "description": "",
+                          "totalReduceAmount": 0
+                      },
+                      {
+                          "title": "钻石会员",
+                          "introduction": "-￥19",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "",
+                          "highLight": null,
+                          "memberTitle": "钻石会员",
+                          "memberLevelStyle": {
+                              "detailBannerUrl": "https://pic.tujia.com/upload/festatic/member/D-banner-zuanshi.png",
+                              "detailBannerUrlForRank": "https://pic.tujia.com/upload/festatic/crn/diamond-with-rank.png",
+                              "titleStyle": {
+                                  "titleImageUrl": "https://pic.tujia.com/upload/festatic/member/LD-toast-zuanshi.png",
+                                  "gradualChangeColorList": [
+                                      "rgba(244, 246, 249, 1)",
+                                      "rgba(207, 225, 255, 1)"
+                                  ]
+                              },
+                              "tagStyle": {
+                                  "tagBgColor": "#E5EEFB",
+                                  "tagTxtColor": "#465290",
+                                  "tagIcon": "https://pic.tujia.com/upload/festatic/app/toc_2037_diamond.png"
+                              },
+                              "memberType": 3,
+                              "buttonStyle": {
+                                  "fontColor": "rgba(248, 228, 195, 1)",
+                                  "buttonGradualChangeColorList": [
+                                      "rgba(98, 107, 157, 1)",
+                                      "rgba(70, 82, 144, 1)"
+                                  ]
+                              }
+                          },
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 1000002,
+                          "amount": 19,
+                          "description": "",
+                          "totalReduceAmount": 19
+                      },
+                      {
+                          "title": "今夜特价",
+                          "introduction": "-￥38",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "",
+                          "highLight": null,
+                          "memberTitle": "今夜特价",
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 1000085,
+                          "amount": 38,
+                          "description": "",
+                          "totalReduceAmount": 38
+                      }
+                  ],
+                  "expressBooking": true,
+                  "quickBooking": false,
+                  "creditButton": false,
+                  "userCreditLevel": null,
+                  "activityTips": [
+                      {
+                          "title": "钻石会员",
+                          "introduction": "￥19",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "",
+                          "highLight": null,
+                          "memberTitle": "钻石会员",
+                          "memberLevelStyle": {
+                              "detailBannerUrl": "https://pic.tujia.com/upload/festatic/member/D-banner-zuanshi.png",
+                              "detailBannerUrlForRank": "https://pic.tujia.com/upload/festatic/crn/diamond-with-rank.png",
+                              "titleStyle": {
+                                  "titleImageUrl": "https://pic.tujia.com/upload/festatic/member/LD-toast-zuanshi.png",
+                                  "gradualChangeColorList": [
+                                      "rgba(244, 246, 249, 1)",
+                                      "rgba(207, 225, 255, 1)"
+                                  ]
+                              },
+                              "tagStyle": {
+                                  "tagBgColor": "#E5EEFB",
+                                  "tagTxtColor": "#465290",
+                                  "tagIcon": "https://pic.tujia.com/upload/festatic/app/toc_2037_diamond.png"
+                              },
+                              "memberType": 3,
+                              "buttonStyle": {
+                                  "fontColor": "rgba(248, 228, 195, 1)",
+                                  "buttonGradualChangeColorList": [
+                                      "rgba(98, 107, 157, 1)",
+                                      "rgba(70, 82, 144, 1)"
+                                  ]
+                              }
+                          },
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 1000002,
+                          "amount": 19,
+                          "description": "",
+                          "totalReduceAmount": 19
+                      },
+                      {
+                          "title": "今夜特价",
+                          "introduction": "￥38",
+                          "focus": null,
+                          "blod": false,
+                          "icon": null,
+                          "color": null,
+                          "tip": "",
+                          "highLight": null,
+                          "memberTitle": "今夜特价",
+                          "memberLevelStyle": null,
+                          "maskTagText": "",
+                          "titleType": 0,
+                          "marketActivityId": 1000085,
+                          "amount": 38,
+                          "description": "",
+                          "totalReduceAmount": 38
+                      }
+                  ],
+                  "redPacketPromoTip": "",
+                  "promoTotalPriceIcon": {
+                      "icon": "https://pic.tujia.com/upload/festatic/publicImages/big_promotion_bg.png",
+                      "title": "特惠价格！已优惠57元",
+                      "text": null
+                  },
+                  "displayOrigionPrice": true
+              }
+          },
+          "contractModule": {
+              "contactFlag": 4,
+              "imSummary": {
+                  "chatID": 226642599,
+                  "chatTeamId": null,
+                  "chatSesstionType": 0,
+                  "chatType": 2,
+                  "chatName": "白羊角民宿",
+                  "houseSummary": {
+                      "houseName": "【苏珊】 鳯凰池地铁口投影房  近商圈近至诚学院/西禅古寺/近万宝商圈/华润万象城/温馨私享私人影院",
+                      "defaultPictureURL": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_700_467.jpg",
+                      "recommendedGuests": 2,
+                      "roomCountSummary": "1室 0厅 1 卫",
+                      "unitDetailURL": "https://go.tujia.com/1054/?id=55077340&uid=55077340&tjmcode=6&tjchannelid=tujia",
+                      "houseTypeName": "普通公寓"
+                  },
+                  "landlordAccountId": 226642599,
+                  "hotelLogo": "/upload/customeravatar/day_220527/202205270839058493.jpg",
+                  "newChatId": "985f7acdc10c4c2ab46ba5c4e053dd4c",
+                  "ctripCityId": 0,
+                  "ctripHotel": false,
+                  "tripHotelId": null,
+                  "enableIm": true
+              },
+              "realTimeServiceHotlinePattern": null,
+              "phone400": null
+          }
+      },
+      "popupUpJson": "{\"page\":\"HOUSE_DETAIL_PAGE\",\"condition\":\"{\\\"cityId\\\":145,\\\"checkInDate\\\":\\\"2024-04-22\\\",\\\"checkOutDate\\\":\\\"2024-04-23\\\",\\\"houseId\\\":55077340,\\\"hotelId\\\":18192397,\\\"canBook\\\":true,\\\"bookingCount\\\":1,\\\"peopleCount\\\":1,\\\"userRedeemText\\\":null,\\\"houseDetailUserRedeem\\\":null}\"}",
+      "currentHouse": {
+          "markLine": true,
+          "allowBooking": true,
+          "rankDiffDisplay": false,
+          "gamingDisplay": false,
+          "displayDiscount": true,
+          "houseId": 55077340,
+          "defaultPictureURL": "https://pic.tujia.com/upload/landlordunit/day_220819/thumb/202208191305135967_300_200.jpg",
+          "houseName": "山景一室大床房A",
+          "houseSummary": "整套·1居1床2人·35㎡",
+          "houseRules": null,
+          "houseTags": [
+              {
+                  "tagText": {
+                      "text": "今夜特价减38",
+                      "color": "#FF6666",
+                      "border": null,
+                      "tips": null,
+                      "background": {
+                          "color": "rgba(255,102,102,0.10)",
+                          "image": null,
+                          "gradientColor": null
+                      }
+                  },
+                  "tagPic": null,
+                  "tagDesc": null,
+                  "tagCode": -1,
+                  "tagLink": null,
+                  "aloneLine": false,
+                  "childTags": null
+              },
+              {
+                  "tagText": {
+                      "text": "钻石会员减19",
+                      "color": "#FF6666",
+                      "border": null,
+                      "tips": null,
+                      "background": {
+                          "color": "rgba(255,102,102,0.10)",
+                          "image": null,
+                          "gradientColor": null
+                      }
+                  },
+                  "tagPic": null,
+                  "tagDesc": null,
+                  "tagCode": -1,
+                  "tagLink": null,
+                  "aloneLine": false,
+                  "childTags": null
+              }
+          ],
+          "promoTags": [
+              {
+                  "tagText": {
+                      "text": "钻石会员",
+                      "color": "#FF6666",
+                      "border": null,
+                      "tips": null,
+                      "background": {
+                          "color": "rgba(255,102,102,0.10)",
+                          "image": null,
+                          "gradientColor": null
+                      },
+                      "subTitle": "优享家·钻石会员"
+                  },
+                  "promoPrice": 19,
+                  "tagDesc": "会员用户专享",
+                  "activityId": 1000002,
+                  "tagType": 0,
+                  "memberLevelStyle": {
+                      "detailBannerUrl": "https://pic.tujia.com/upload/festatic/member/D-banner-zuanshi.png",
+                      "detailBannerUrlForRank": "https://pic.tujia.com/upload/festatic/crn/diamond-with-rank.png",
+                      "titleStyle": {
+                          "titleImageUrl": "https://pic.tujia.com/upload/festatic/member/LD-toast-zuanshi.png",
+                          "gradualChangeColorList": [
+                              "rgba(244, 246, 249, 1)",
+                              "rgba(207, 225, 255, 1)"
+                          ]
+                      },
+                      "tagStyle": {
+                          "tagBgColor": "#E5EEFB",
+                          "tagTxtColor": "#465290",
+                          "tagIcon": "https://pic.tujia.com/upload/festatic/app/toc_2037_diamond.png"
+                      },
+                      "memberType": 3,
+                      "buttonStyle": {
+                          "fontColor": "rgba(248, 228, 195, 1)",
+                          "buttonGradualChangeColorList": [
+                              "rgba(98, 107, 157, 1)",
+                              "rgba(70, 82, 144, 1)"
+                          ]
+                      }
+                  }
+              },
+              {
+                  "tagText": {
+                      "text": "今夜特价",
+                      "color": "#FF6666",
+                      "border": null,
+                      "tips": null,
+                      "background": {
+                          "color": "rgba(255,102,102,0.10)",
+                          "image": null,
+                          "gradientColor": null
+                      },
+                      "subTitle": "今夜特价"
+                  },
+                  "promoPrice": 38,
+                  "tagDesc": "今天11:00-24:00预订今晚入住订单，合计可减38.0元",
+                  "activityId": 1000085,
+                  "tagType": 0,
+                  "memberLevelStyle": null
+              }
+          ],
+          "promoTitle": "钻石会员优惠说明",
+          "rules": null,
+          "productPrice": "¥188",
+          "finalPrice": "131",
+          "discount": "7.0",
+          "priceMark": "起",
+          "activityInfo": "%7B%22peopleCount%22%3A1%2C%22extraAttribute%22%3A%220_0_0__131_0_0_0__null_1000002___1000085__%22%2C%22version%22%3A3%2C%22source%22%3A0%2C%22totalHouseAmount%22%3A131%2C%22totalAddPeopleAmount%22%3A0%2C%22totalCleaningAmount%22%3A0%2C%22maxPeopleCount%22%3A2%2C%22addPeopleAmount%22%3A0%2C%22qdepositFlag%22%3Afalse%2C%22sproductId%22%3A%22116506754_null_1000002_1000085%22%2C%22houseId%22%3A55077340%2C%22msHouse%22%3Atrue%2C%22productId%22%3A116506754%2C%22checkInDate%22%3A%222024-04-22%22%2C%22checkOutDate%22%3A%222024-04-23%22%2C%22prevTraceId%22%3A%22t-api-gateway-c-p1_2404221556.10.95.157.85.14178.259354839_1%22%2C%22referTraceId%22%3A%221713772585452yKpmJSAX_Dha0prZCRyj6na1DRzQPNGthyYX3%22%7D",
+          "disallowBookingReason": null,
+          "certificateInfo": {
+              "licenseCode": null,
+              "tradeCode": null,
+              "managerName": null
+          },
+          "prices": [
+              {
+                  "markLine": true,
+                  "allowBooking": true,
+                  "rankDiffDisplay": false,
+                  "gamingDisplay": false,
+                  "displayDiscount": false,
+                  "houseId": 55077340,
+                  "defaultPictureURL": null,
+                  "houseName": null,
+                  "houseSummary": "1张2×1.5米大床 2人 整套 35㎡",
+                  "houseRules": null,
+                  "houseTags": null,
+                  "promoTags": [
+                      {
+                          "tagText": {
+                              "text": "钻石会员",
+                              "color": "#FF6666",
+                              "border": null,
+                              "tips": null,
+                              "background": {
+                                  "color": "rgba(255,102,102,0.10)",
+                                  "image": null,
+                                  "gradientColor": null
+                              },
+                              "subTitle": "优享家·钻石会员"
+                          },
+                          "promoPrice": 19,
+                          "tagDesc": "会员用户专享",
+                          "activityId": 1000002,
+                          "tagType": 0,
+                          "memberLevelStyle": {
+                              "detailBannerUrl": "https://pic.tujia.com/upload/festatic/member/D-banner-zuanshi.png",
+                              "detailBannerUrlForRank": "https://pic.tujia.com/upload/festatic/crn/diamond-with-rank.png",
+                              "titleStyle": {
+                                  "titleImageUrl": "https://pic.tujia.com/upload/festatic/member/LD-toast-zuanshi.png",
+                                  "gradualChangeColorList": [
+                                      "rgba(244, 246, 249, 1)",
+                                      "rgba(207, 225, 255, 1)"
+                                  ]
+                              },
+                              "tagStyle": {
+                                  "tagBgColor": "#E5EEFB",
+                                  "tagTxtColor": "#465290",
+                                  "tagIcon": "https://pic.tujia.com/upload/festatic/app/toc_2037_diamond.png"
+                              },
+                              "memberType": 3,
+                              "buttonStyle": {
+                                  "fontColor": "rgba(248, 228, 195, 1)",
+                                  "buttonGradualChangeColorList": [
+                                      "rgba(98, 107, 157, 1)",
+                                      "rgba(70, 82, 144, 1)"
+                                  ]
+                              }
+                          }
+                      },
+                      {
+                          "tagText": {
+                              "text": "今夜特价",
+                              "color": "#FF6666",
+                              "border": null,
+                              "tips": null,
+                              "background": {
+                                  "color": "rgba(255,102,102,0.10)",
+                                  "image": null,
+                                  "gradientColor": null
+                              },
+                              "subTitle": "今夜特价"
+                          },
+                          "promoPrice": 38,
+                          "tagDesc": "今天11:00-24:00预订今晚入住订单，合计可减38.0元",
+                          "activityId": 1000085,
+                          "tagType": 0,
+                          "memberLevelStyle": null
+                      }
+                  ],
+                  "promoTitle": "钻石会员优惠说明",
+                  "rules": [
+                      {
+                          "icon": null,
+                          "title": "30分钟内可免费取消",
+                          "text": null,
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": null,
+                          "timeStamp": 0,
+                          "titleTips": null,
+                          "color": "#1C6945",
+                          "type": 1
+                      },
+                      {
+                          "icon": null,
+                          "title": "立即确认",
+                          "text": null,
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": null,
+                          "timeStamp": 0,
+                          "titleTips": null,
+                          "color": "#1C6945",
+                          "type": 2
+                      }
+                  ],
+                  "productPrice": "¥188",
+                  "finalPrice": "131",
+                  "discount": "7.0",
+                  "priceMark": "",
+                  "activityInfo": "%7B%22peopleCount%22%3A1%2C%22extraAttribute%22%3A%220_0_0__131_0_0_0__null_1000002___1000085__%22%2C%22version%22%3A3%2C%22source%22%3A0%2C%22totalHouseAmount%22%3A131%2C%22totalAddPeopleAmount%22%3A0%2C%22totalCleaningAmount%22%3A0%2C%22maxPeopleCount%22%3A2%2C%22addPeopleAmount%22%3A0%2C%22qdepositFlag%22%3Afalse%2C%22sproductId%22%3A%22116506754_null_1000002_1000085%22%2C%22houseId%22%3A55077340%2C%22msHouse%22%3Atrue%2C%22productId%22%3A116506754%2C%22checkInDate%22%3A%222024-04-22%22%2C%22checkOutDate%22%3A%222024-04-23%22%2C%22prevTraceId%22%3A%22t-api-gateway-c-p1_2404221556.10.95.157.85.14178.259354839_1%22%2C%22referTraceId%22%3A%221713772585452yKpmJSAX_Dha0prZCRyj6na1DRzQPNGthyYX3%22%7D",
+                  "disallowBookingReason": null,
+                  "prices": null,
+                  "sourceChannelDesc": null,
+                  "sourceChannel": 1,
+                  "breakfastInfo": {
+                      "breakfastStr": "无早餐 ",
+                      "color": "#666666"
+                  },
+                  "productId": 116506754,
+                  "sproductId": "116506754_null_1000002_1000085",
+                  "houseSummaryWithType": "",
+                  "productPromotionData": null,
+                  "name": "无早餐",
+                  "isStudent": false,
+                  "promotionTags": null,
+                  "priceDetails": null,
+                  "rulesModule": {
+                      "cancelRules": [
+                          {
+                              "backColor": "#F4F6F8",
+                              "tipColor": "#666666",
+                              "tip": null,
+                              "strDate": null,
+                              "strTime": null,
+                              "introduction": "现在预订（04月22日）",
+                              "isDeleted": false
+                          },
+                          {
+                              "backColor": "#17D2BC25",
+                              "tipColor": "#17D2BC",
+                              "tip": "取消订单可退还全部房费",
+                              "strDate": null,
+                              "strTime": null,
+                              "introduction": "订单确认30分钟后",
+                              "isDeleted": false
+                          },
+                          {
+                              "backColor": "#FF666625",
+                              "tipColor": "#FF6666",
+                              "tip": "取消订单将扣除全部房费",
+                              "strDate": null,
+                              "strTime": null,
+                              "introduction": "离店（04月23日）",
+                              "isDeleted": false
+                          }
+                      ],
+                      "orderRules": [
+                          {
+                              "title": "入离时间",
+                              "introduction": "14:00-24:00入住，12:00前退房",
+                              "link": null,
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null
+                          },
+                          {
+                              "title": "在线押金",
+                              "introduction": "180元，离店后原路退还",
+                              "link": null,
+                              "icon": null,
+                              "tips": [
+                                  "到店后无需再次支付，如取消订单或未入住，押金将全额原路退回。",
+                                  "入住完成后，房东会在您离店日18点前操作退回押金，超时未操作押金将自动退还到支付账户，预计1-5个工作日到账。",
+                                  "如有疑问，可咨询在线客服。"
+                              ],
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null,
+                              "type": 1
+                          },
+                          {
+                              "title": "发票说明",
+                              "introduction": "发票由天津途家旅游有限公司提供",
+                              "link": {
+                                  "enabled": true,
+                                  "title": null,
+                                  "text": null,
+                                  "navigateUrl": "https://pwa.tujia.com/h5/mob/invoice/invoiceIntructions?navbar=0",
+                                  "imageUrl": null
+                              },
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null
+                          },
+                          {
+                              "title": "确认规则",
+                              "introduction": "立即确认",
+                              "link": null,
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": "#1C6945"
+                          },
+                          {
+                              "title": "取消规则",
+                              "introduction": null,
+                              "link": null,
+                              "icon": "30分钟内免费取消",
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": "#17D2BC"
+                          }
+                      ],
+                      "checkInRules": [
+                          {
+                              "title": "入住须知",
+                              "checkInRuleFloat": null,
+                              "items": [
+                                  {
+                                      "introduction": "接待婴儿",
+                                      "tip": null,
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "接待儿童",
+                                      "tip": null,
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "接待老人",
+                                      "tip": null,
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "接待外宾",
+                                      "tip": null,
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "带宠物",
+                                      "tip": null,
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "吸烟",
+                                      "tip": null,
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "做饭",
+                                      "tip": "如有用到厨房需要自行收拾哦",
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "聚会",
+                                      "tip": "",
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "商业拍摄",
+                                      "tip": "",
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  }
+                              ]
+                          }
+                      ],
+                      "checkinOtherInfo": [
+                          {
+                              "title": null,
+                              "checkInRuleFloat": null,
+                              "items": [
+                                  {
+                                      "introduction": "标准入住2人，不可加人",
+                                      "tip": null,
+                                      "isDeleted": null,
+                                      "textLink": null
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  "fromCtrip": false,
+                  "resourceTag": "",
+                  "promoTagStyle": {
+                      "tagBgColor": "#BEE8FF",
+                      "tagTxtColor": "#1760B5",
+                      "tagIcon": "https://pic.tujia.com/upload/festatic/crn/tonight_bargain_price_tag_light.png",
+                      "bizScene": "02"
+                  },
+                  "priceTagVO": {
+                      "totalReduceAmount": "已省¥57",
+                      "activityTags": [
+                          {
+                              "text": "钻石会员",
+                              "icon": "https://pic.tujia.com/upload/festatic/crn/pricetag_t_icon_zuanshi.png",
+                              "activityId": 1000002
+                          }
+                      ],
+                      "priceTagStyle": {
+                          "backgroundColor": [
+                              "#E5E8FF",
+                              "#E5E8FF"
+                          ],
+                          "priceFontColor": "#62549B",
+                          "fontColor": "#62549B",
+                          "lineColor": "#B4B9D8"
+                      }
+                  },
+                  "priceDetailVO": {
+                      "titleVO": {
+                          "title": "每间每晚明细",
+                          "subTitle": "4月22日-4月23日 | 共1晚",
+                          "memberTitleImg": "https://pic.tujia.com/upload/festatic/crn/pricedetail_t_membertitleimg_zuanshi.png",
+                          "backgroundColor": [
+                              "#E2E6FF",
+                              "#FFFDFA"
+                          ],
+                          "subTitleFontColor": "#666666"
+                      },
+                      "footerBtn": {
+                          "backgroundColor": [
+                              "#6D4BCB",
+                              "#361B8D"
+                          ],
+                          "fontColor": "#FFFFFF"
+                      },
+                      "originalPriceVO": {
+                          "totalPrice": 188,
+                          "dailyPrice": 188,
+                          "stayNight": 1,
+                          "dailyPriceList": [
+                              {
+                                  "date": "4月22日",
+                                  "price": 188
+                              }
+                          ]
+                      },
+                      "discountPriceVO": {
+                          "finalDailyPrice": 131,
+                          "finalTotalPrice": 131,
+                          "totalDiscountPrice": 57,
+                          "dailyDiscountPrice": 57
+                      },
+                      "discountList": [
+                          {
+                              "title": "钻石会员",
+                              "desc": "钻石会员专享",
+                              "discountPrice": 19,
+                              "activityId": 1000002
+                          },
+                          {
+                              "title": "今夜特价",
+                              "desc": "今日预订，享受当晚优惠",
+                              "discountPrice": 38,
+                              "activityId": 1000085
+                          }
+                      ]
+                  },
+                  "memberType": 3,
+                  "detailBannerUrl": "https://pic.tujia.com/upload/festatic/crn/tonight_bargain_price_detail_top_light.png",
+                  "detailBannerUrlForRank": "https://pic.tujia.com/upload/festatic/crn/tonight_bargain_price_detail_top_rank_light.png",
+                  "detailBannerBg": "https://pic.tujia.com/upload/festatic/publicImages/tonight_bargain_price_detail_top_light_bg.png",
+                  "detailBannerTxt": "https://pic.tujia.com/upload/festatic/publicImages/tonight_bargain_price_detail_top_light_txt.png",
+                  "titleStyle": {
+                      "titleImageUrl": "https://pic.tujia.com/upload/festatic/member/LD-toast-zuanshi.png",
+                      "gradualChangeColorList": [
+                          "rgba(244, 246, 249, 1)",
+                          "rgba(207, 225, 255, 1)"
+                      ]
+                  },
+                  "buttonStyle": {
+                      "fontColor": "rgba(248, 228, 195, 1)",
+                      "buttonGradualChangeColorList": [
+                          "rgba(98, 107, 157, 1)",
+                          "rgba(70, 82, 144, 1)"
+                      ]
+                  }
+              },
+              {
+                  "markLine": false,
+                  "allowBooking": true,
+                  "rankDiffDisplay": false,
+                  "gamingDisplay": false,
+                  "displayDiscount": false,
+                  "houseId": 66948019,
+                  "defaultPictureURL": null,
+                  "houseName": null,
+                  "houseSummary": "1张2×1.5米大床 2人 整套 35㎡",
+                  "houseRules": null,
+                  "houseTags": null,
+                  "promoTags": [],
+                  "promoTitle": "钻石会员优惠说明",
+                  "rules": [
+                      {
+                          "icon": null,
+                          "title": "04月22日23:59前可免费取消",
+                          "text": null,
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": null,
+                          "timeStamp": 0,
+                          "titleTips": null,
+                          "color": "#1C6945",
+                          "type": 1
+                      },
+                      {
+                          "icon": null,
+                          "title": "5分钟内确认",
+                          "text": null,
+                          "tips": [],
+                          "aloneLine": false,
+                          "jumpUrl": null,
+                          "timeStamp": 0,
+                          "titleTips": null,
+                          "color": "#1C6945",
+                          "type": 2
+                      }
+                  ],
+                  "productPrice": null,
+                  "finalPrice": "158",
+                  "priceMark": "",
+                  "activityInfo": "%7B%22peopleCount%22%3A1%2C%22extraAttribute%22%3A%220_0_0__158_0_0_0_1498922445_null_0__501_null_100020771-20240422155625-84b2e0e99fee43d78fb021804accf454_%22%2C%22version%22%3A3%2C%22source%22%3A0%2C%22totalHouseAmount%22%3A158%2C%22totalAddPeopleAmount%22%3A0%2C%22totalCleaningAmount%22%3A0%2C%22maxPeopleCount%22%3A2%2C%22addPeopleAmount%22%3A0%2C%22qdepositFlag%22%3Afalse%2C%22sproductId%22%3A%222147483647_1498922445_0_null%22%2C%22houseId%22%3A66948019%2C%22msHouse%22%3Atrue%2C%22productId%22%3A2147483647%2C%22checkInDate%22%3A%222024-04-22%22%2C%22checkOutDate%22%3A%222024-04-23%22%2C%22prevTraceId%22%3A%22t-api-gateway-c-p1_2404221556.10.95.157.85.14178.259354839_1%22%2C%22referTraceId%22%3A%221713772585452yKpmJSAX_Dha0prZCRyj6na1DRzQPNGthyYX3%22%7D",
+                  "disallowBookingReason": null,
+                  "prices": null,
+                  "sourceChannelDesc": "赫程代理",
+                  "sourceChannel": 303,
+                  "breakfastInfo": {
+                      "breakfastStr": "无早餐 ",
+                      "color": "#666666"
+                  },
+                  "productId": 2147483647,
+                  "sproductId": "2147483647_1498922445_0_null",
+                  "houseSummaryWithType": "",
+                  "productPromotionData": null,
+                  "name": "无早餐",
+                  "isStudent": false,
+                  "promotionTags": null,
+                  "priceDetails": null,
+                  "rulesModule": {
+                      "cancelRules": [
+                          {
+                              "backColor": "#F4F6F8",
+                              "tipColor": "#666666",
+                              "tip": null,
+                              "strDate": null,
+                              "strTime": null,
+                              "introduction": "现在预订（04月22日）",
+                              "isDeleted": false
+                          },
+                          {
+                              "backColor": "#17D2BC25",
+                              "tipColor": "#17D2BC",
+                              "tip": "取消订单可退还全部房费",
+                              "strDate": null,
+                              "strTime": null,
+                              "introduction": "入住当天（04月22日 23:59）",
+                              "isDeleted": false
+                          },
+                          {
+                              "backColor": "#FF666625",
+                              "tipColor": "#FF6666",
+                              "tip": "取消订单将扣除全部房费",
+                              "strDate": null,
+                              "strTime": null,
+                              "introduction": "离店（04月23日）",
+                              "isDeleted": false
+                          }
+                      ],
+                      "orderRules": [
+                          {
+                              "title": "入离时间",
+                              "introduction": "14:00-24:00入住，12:00前退房",
+                              "link": null,
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null
+                          },
+                          {
+                              "title": "在线押金",
+                              "introduction": "180元，离店后原路退还",
+                              "link": null,
+                              "icon": null,
+                              "tips": [
+                                  "到店后无需再次支付，如取消订单或未入住，押金将全额原路退回。",
+                                  "入住完成后，房东会在您离店日18点前操作退回押金，超时未操作押金将自动退还到支付账户，预计1-5个工作日到账。",
+                                  "如有疑问，可咨询在线客服。"
+                              ],
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null,
+                              "type": 1
+                          },
+                          {
+                              "title": "发票说明",
+                              "introduction": "发票由天津途家旅游有限公司提供",
+                              "link": {
+                                  "enabled": true,
+                                  "title": null,
+                                  "text": null,
+                                  "navigateUrl": "https://pwa.tujia.com/h5/mob/invoice/invoiceIntructions?navbar=0",
+                                  "imageUrl": null
+                              },
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null
+                          },
+                          {
+                              "title": "确认规则",
+                              "introduction": "立即确认",
+                              "link": null,
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": "#1C6945"
+                          },
+                          {
+                              "title": "取消规则",
+                              "introduction": "当天取消订单，可退全款",
+                              "link": null,
+                              "icon": null,
+                              "tips": null,
+                              "deleted": false,
+                              "loginFlag": false,
+                              "color": null
+                          }
+                      ],
+                      "checkInRules": [
+                          {
+                              "title": "入住须知",
+                              "checkInRuleFloat": null,
+                              "items": [
+                                  {
+                                      "introduction": "接待婴儿",
+                                      "tip": null,
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "接待儿童",
+                                      "tip": null,
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "接待老人",
+                                      "tip": null,
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "接待外宾",
+                                      "tip": null,
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "带宠物",
+                                      "tip": null,
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "吸烟",
+                                      "tip": null,
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "做饭",
+                                      "tip": "如有用到厨房需要自行收拾哦",
+                                      "isDeleted": false,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "聚会",
+                                      "tip": "",
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  },
+                                  {
+                                      "introduction": "商业拍摄",
+                                      "tip": "",
+                                      "isDeleted": true,
+                                      "textLink": null
+                                  }
+                              ]
+                          }
+                      ],
+                      "checkinOtherInfo": [
+                          {
+                              "title": null,
+                              "checkInRuleFloat": null,
+                              "items": [
+                                  {
+                                      "introduction": "标准入住2人，不可加人",
+                                      "tip": null,
+                                      "isDeleted": null,
+                                      "textLink": null
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  "fromCtrip": false,
+                  "resourceTag": "",
+                  "promoTagStyle": {
+                      "tagBgColor": "",
+                      "tagTxtColor": "",
+                      "tagIcon": ""
+                  },
+                  "detailBannerUrl": "https://pic.tujia.com/upload/festatic/crn/t_streamer_diamond_new.png",
+                  "detailBannerUrlForRank": "https://pic.tujia.com/upload/festatic/crn/t_streamer_rank_diamond.png",
+                  "titleStyle": {},
+                  "buttonStyle": {}
+              }
+          ],
+          "sourceChannelDesc": null,
+          "sourceChannel": 1,
+          "productId": 116506754,
+          "sproductId": "116506754_null_1000002_1000085",
+          "houseSummaryWithType": "",
+          "productPromotionData": null,
+          "bookingBtn": {
+              "btnBubble": {
+                  "gradient": [
+                      "#CFF3FF",
+                      "#B7E4FF"
+                  ],
+                  "textColor": "#1760B5",
+                  "text": "立享7.0折 仅限今晚",
+                  "strategyType": 1
+              }
+          },
+          "bizScene": "02",
+          "countDownAtmosphere": {
+              "desc": "距结束",
+              "descColor": "#2D6CB6",
+              "dateBoxBorderGradient": [
+                  "#FFFFFF",
+                  "#FFF25F"
+              ],
+              "dateBoxBgGradient": [
+                  "#FFF99F",
+                  "#FFC239"
+              ],
+              "dateTextColor": "#475C85",
+              "priceColor": [
+                  "#0E50A2",
+                  "#1760B5"
+              ],
+              "section": [
+                  1713772586119,
+                  1713801599999
+              ]
+          },
+          "houseSharingType": 1,
+          "bedRoomCount": 1,
+          "isNewGuestPrice": false,
+          "showNewGuestPriceBubble": false,
+          "isCtripHouseAggregation": false,
+          "displayOrigionPrice": true
+      },
+      "floatingBall": null,
+      "extend": {},
+      "runInfo": {
+          "debugInfo": "当前房屋id:55077340;第1房屋编号:55077340;第2房屋编号:66948019,第2产品编号:1498922445"
+      },
+      "silentCouponsTip": "",
+      "debugInfo": "当前房屋id:55077340;第1房屋编号:55077340;第2房屋编号:66948019,第2产品编号:1498922445"
+  },
+  "timeTracker": {
+      "logName": "unit_detail",
+      "requestTimeToNode": 0,
+      "responseTimeFromNode": 0,
+      "requestTimeFromFE": 0,
+      "requestTimeToTNode": 0,
+      "responseTimeFromTNode": 0,
+      "responseTimeToFE": 0,
+      "requestTimeFromConsumer": 1713772585874,
+      "responseTimeToConsumer": 1713772586126
+  }
+}

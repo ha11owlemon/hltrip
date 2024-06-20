@@ -1,0 +1,226 @@
+.topbar {
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  top: 0;
+  height: var(--status-bar-height);
+  background-color: #ffffff;
+}
+.city-container {
+  overflow: hidden;
+}
+.city-container .searchHeader {
+  padding: 0 1.25rem;
+  display: flex;
+  height: 2.5rem;
+  justify-content: space-between;
+  position: fixed;
+  z-index: 999;
+  width: 95%;
+  top: var(--status-bar-height);
+  left: 50%;
+  background-color: #fff;
+  transform: translate(-50%);
+}
+.city-container .searchHeader .left {
+  flex: 1;
+  display: flex;
+  border-radius: 0.25rem;
+  background-color: #f6f7fb;
+}
+.city-container .searchHeader .left .searchIcon {
+  margin-top: 0.625rem;
+  margin-left: 0.625rem;
+}
+.city-container .searchHeader .left .searchInput {
+  height: 2.5rem;
+  flex: 1;
+  margin-left: 0.625rem;
+  font-weight: 900;
+  line-height: 2.5rem;
+}
+.city-container .searchHeader .right {
+  font-weight: 900;
+  color: #222222;
+  text-align: center;
+  width: 3.75rem;
+  line-height: 2.5rem;
+}
+.city-container .cities {
+  box-sizing: border-box;
+  margin-top: 5.625rem;
+  width: 100vw;
+  padding: 0.3125rem 1.0625rem;
+  height: 90vh;
+  scroll-margin-top: 6.25rem;
+  overflow-y: scroll;
+  position: fixed;
+}
+.city-container .cities .title {
+  font-weight: 900;
+  color: #333;
+}
+.city-container .cities .location {
+  color: #575757;
+  font-weight: 900;
+}
+.city-container .cities .location .address {
+  margin-top: 0.3125rem;
+  line-height: 1.125rem;
+  overflow: hidden;
+}
+.city-container .cities .location .icon {
+  width: 1.125rem;
+  height: 1.125rem;
+  vertical-align: bottom;
+}
+.city-container .cities .history {
+  margin-top: 1.25rem;
+}
+.city-container .cities .history .titleWrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.city-container .cities .history .titleWrapper .clear {
+  color: #a0a0a0;
+  font-size: 0.9375rem;
+}
+.city-container .cities .history .historyList {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.city-container .cities .history .historyList i {
+  width: 20%;
+  padding: 0.46875rem 0.25rem;
+}
+.city-container .cities .history .historyList .historyListItem {
+  margin-left: 0.625rem;
+  text-align: center;
+  background-color: #f6f7fb;
+  border-radius: 31.21875rem;
+  font-weight: 900;
+  color: #676769;
+  padding: 0.25rem 0.5625rem;
+  margin-top: 0.46875rem;
+  font-size: 0.875rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.city-container .cities .history .historyList .historyListItem .textOverflow {
+  width: 100%;
+  white-space: nowrap;
+}
+.city-container .cities .hotCities {
+  margin-top: 0.9375rem;
+}
+.city-container .cities .hotCities .hotCitiesList {
+  margin-top: 0.3125rem;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.city-container .cities .hotCities .hotCitiesList .hotCityItem {
+  margin-left: 0.625rem;
+  text-align: center;
+  background-color: #f6f7fb;
+  border-radius: 3.8125rem;
+  font-weight: 900;
+  color: #676769;
+  padding: 0.25rem 0.8125rem;
+  margin-top: 0.75rem;
+  font-size: 0.8125rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.city-container .cities .citiesList {
+  margin-top: 1.25rem;
+  margin-left: 0.9375rem;
+}
+.city-container .cities .citiesList .groupLetter {
+  margin-top: 0.9375rem;
+  margin-bottom: 0.625rem;
+}
+.city-container .cities .citiesList .cityName {
+  width: 100%;
+  margin-top: 0.3125rem;
+  height: 2.8125rem;
+  line-height: 2.8125rem;
+  color: #676769;
+  font-weight: 900;
+  border-bottom: 1px solid #f5f5f5;
+}
+.scrollBottom {
+  width: 100%;
+  height: 3.125rem;
+}
+.sideBar {
+  position: fixed;
+  right: 0;
+  top: 9.375rem;
+  width: 10%;
+  text-align: center;
+  color: #676769;
+  font-weight: 900;
+  font-size: 0.75rem;
+}
+.sideBar .letter {
+  margin: 0.15625rem 0;
+}
+.sideBar .letter a {
+  text-decoration: none;
+  color: inherit;
+}
+.textHoverOrange {
+  color: #ff7014;
+}
+.cityHover {
+  background-color: #e6e6e6;
+}
+.locationHover {
+  color: #cccccc !important;
+}
+.searchTip-container {
+  margin-top: 5.625rem;
+  width: 100%;
+  padding: 0.3125rem 1.0625rem;
+  height: 90vh;
+  scroll-margin-top: 6.25rem;
+  overflow-y: scroll;
+  position: fixed;
+}
+.searchTip-container .tips-list {
+  width: 100%;
+}
+.searchTip-container .tips-list .tip-item {
+  font-weight: 900;
+  padding: 0.5625rem 0.3125rem;
+  border-bottom: 2px solid #fafafa;
+}
+.searchTip-container .tips-list .tip-item .tipName {
+  color: #333;
+}
+.searchTip-container .tips-list .tip-item .district {
+  color: #9c9c9c;
+  font-size: 0.6875rem;
+  margin-top: 0.125rem;
+}
+.loading {
+  width: 1.5625rem;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.noRecord {
+  font-weight: 900;
+  position: fixed;
+  top: 5.3125rem;
+  height: 1.40625rem;
+  width: 100%;
+  line-height: 1.40625rem;
+  color: #ff7014;
+}

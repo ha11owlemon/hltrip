@@ -1,0 +1,191 @@
+{
+  "@platforms": [
+    "android",
+    "iPhone",
+    "iPad"
+  ],
+  "id": "__UNI__9F415F3",
+  "name": "欢乐旅途",
+  "version": {
+    "name": "1.1.3",
+    "code": 110
+  },
+  "description": "",
+  "developer": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "permissions": {
+    "Geolocation": {},
+    "Payment": {},
+    "Maps": {
+      "coordType": "gcj02"
+    },
+    "UniNView": {
+      "description": "UniNView原生渲染"
+    }
+  },
+  "plus": {
+    "useragent": {
+      "value": "uni-app",
+      "concatenate": true
+    },
+    "splashscreen": {
+      "target": "id:1",
+      "autoclose": true,
+      "waiting": false,
+      "delay": 0
+    },
+    "popGesture": "close",
+    "launchwebview": {
+      "id": "1",
+      "kernel": "WKWebview"
+    },
+    "usingComponents": true,
+    "nvueStyleCompiler": "uni-app",
+    "compilerVersion": 3,
+    "distribute": {
+      "splashscreen": {
+        "androidStyle": "common",
+        "android": {
+          "xxhdpi": "C:/Users/Administrator/Pictures/start1.png"
+        }
+      },
+      "icons": {
+        "android": {
+          "hdpi": "C:/Users/Administrator/Pictures/1x/72资源 5.png",
+          "xhdpi": "C:/Users/Administrator/Pictures/1x/96资源 4.png",
+          "xxhdpi": "C:/Users/Administrator/Pictures/1x/144资源 3.png",
+          "xxxhdpi": "C:/Users/Administrator/Pictures/1x/192资源 2.png"
+        }
+      },
+      "google": {
+        "permissions": [
+          "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+          "<uses-permission android:name=\"android.permission.VIBRATE\"/>",
+          "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+          "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+          "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>",
+          "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+          "<uses-feature android:name=\"android.hardware.camera\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
+        ],
+        "minSdkVersion": 31,
+        "targetSdkVersion": 31
+      },
+      "apple": {
+        "dSYMs": false,
+        "urltypes": "hbuilder://"
+      },
+      "plugins": {
+        "maps": {
+          "amap": {
+            "name": "amap_13067153976AjDWUyLoJ",
+            "appkey_ios": "b68f2de8122e1718e66e0195bc0bd5ad",
+            "appkey_android": "b68f2de8122e1718e66e0195bc0bd5ad"
+          }
+        },
+        "geolocation": {
+          "amap": {
+            "name": "amap_13067153976AjDWUyLoJ",
+            "__platform__": [
+              "ios",
+              "android"
+            ],
+            "appkey_ios": "b68f2de8122e1718e66e0195bc0bd5ad",
+            "appkey_android": "b68f2de8122e1718e66e0195bc0bd5ad"
+          }
+        },
+        "payment": {
+          "alipay": {
+            "__platform__": [
+              "android"
+            ]
+          }
+        },
+        "ad": {},
+        "audio": {
+          "mp3": {
+            "description": "Android平台录音支持MP3格式文件"
+          }
+        }
+      }
+    },
+    "statusbar": {
+      "immersed": "supportedDevice",
+      "style": "dark",
+      "background": "#F8F8F8"
+    },
+    "uniStatistics": {
+      "enable": false
+    },
+    "allowsInlineMediaPlayback": true,
+    "safearea": {
+      "background": "#ffffff",
+      "bottom": {
+        "offset": "auto"
+      }
+    },
+    "uni-app": {
+      "control": "uni-v3",
+      "vueVersion": "3",
+      "compilerVersion": "3.99",
+      "nvueCompiler": "uni-app",
+      "renderer": "auto",
+      "nvue": {
+        "flex-direction": "column"
+      },
+      "nvueLaunchMode": "normal",
+      "webView": {
+        "minUserAgentVersion": "49.0"
+      }
+    },
+    "tabBar": {
+      "position": "bottom",
+      "color": "#cdcdcd",
+      "selectedColor": "#ff6d18",
+      "borderStyle": "rgba(255,255,255,0.4)",
+      "blurEffect": "none",
+      "fontSize": "10px",
+      "iconWidth": "24px",
+      "spacing": "3px",
+      "height": "50px",
+      "backgroundColor": "#ffffff",
+      "list": [
+        {
+          "pagePath": "pages/Components/home/home",
+          "iconPath": "/static/image/icon/home.png",
+          "selectedIconPath": "/static/image/icon/homeSelected.png",
+          "text": "首页"
+        },
+        {
+          "pagePath": "pages/Components/Favor/Favor",
+          "iconPath": "/static/image/icon/favor.png",
+          "selectedIconPath": "/static/image/icon/favorSelected.png",
+          "text": "收藏"
+        },
+        {
+          "pagePath": "pages/Components/profile/profile",
+          "iconPath": "/static/image/icon/user.png",
+          "selectedIconPath": "/static/image/icon/userSelected.png",
+          "text": "我的"
+        }
+      ],
+      "selectedIndex": 0,
+      "shown": true,
+      "child": [
+        "lauchwebview"
+      ],
+      "selected": 0
+    }
+  },
+  "launch_path": "__uniappview.html"
+}
